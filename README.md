@@ -11,5 +11,7 @@ Welcome To The Raptor Repack Toolkit
 
 - Product Copyright: Raptor Repack 2022,Inc
 
+Contact me https://www.twitter.com/raptorrepack
+
 This a frist release versions next versions to changelog Status Able
 ----------------------------------------------------------------------------------------------------
