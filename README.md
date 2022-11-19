@@ -15,6 +15,3 @@ Old Versions v1.0.0.2022 ✔
 - Product Copyright: Raptor Repack 2022,Inc
 
 Contact me https://www.twitter.com/raptorrepack
-
-This a frist release versions next versions to changelog Status Able
-----------------------------------------------------------------------------------------------------
