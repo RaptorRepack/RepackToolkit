@@ -4,9 +4,13 @@ New Versions Repack Toolkits Coming In 02-12-2022 Stay Soon..! ⏳
 ----------------------------------------------------------------------------------------------------
 - Update Version Is v1.1.0.2022 | Update ChangeLog Coming In 01-12-2022 Stay Soon..! ⏳
 ----------------------------------------------------------------------------------------------------
+New Highlight Versions:
+----------------------------------------------------------------------------------------------------
+- v1.1.0.2022 *This new versions update build coming very soon* ⏳
+----------------------------------------------------------------------------------------------------
 Old Versions List:
 ----------------------------------------------------------------------------------------------------
-- v1.0.0.2022 *This buid versions is first released no changelog available only product information available*
+- v1.0.0.2022 *This buid is first released versions no changelog available only product information available*
 ----------------------------------------------------------------------------------------------------
 - Product Name: Repack Toolkit
 
