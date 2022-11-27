@@ -1,12 +1,13 @@
 Welcome To The Raptor Repack Toolkit
 ----------------------------------------------------------------------------------------------------
-New Versions Repack Toolkits Coming In 02-12-2022 Stay Soon..! ⏳
+New Update or ChangeLog Coming In 02-12-2022 Stay Soon..! ⏳
 ----------------------------------------------------------------------------------------------------
 
+*This repack toolkit using only offline game repacking or installer create purpose*
 
 Highlighted Versions:
 ----------------------------------------------------------------------------------------------------
-- v1.1.0.2022 *This new versions update build coming very soon* ⏳
+- v1.1.0.2022 *This new versions update build coming 2 December 2022*
 ----------------------------------------------------------------------------------------------------
 Old Versions List:
 ----------------------------------------------------------------------------------------------------
