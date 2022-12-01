@@ -35,7 +35,7 @@ Changelog:
 ---------------------------------------------------------------------------------------------------
 Importen Note:
 
-*"This Toolkit Defoultly Selected D:/ Disk"*
+*"This Toolkit Defaultly Selected D:/ Disk"*
 
 *"You Not Be Changed Because I Have Protected To D:/ Disk"*
 
