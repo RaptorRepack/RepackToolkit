@@ -1,30 +1,37 @@
-
-
-New Update Build Coming In 02-12-2022 ⏳
+New Update Build Released!
 ----------------------------------------------------------------------------------------------------
 
 *This repack toolkit using only offline game repacking or installer create purpose.*
 
-Highlighted Versions:
 ----------------------------------------------------------------------------------------------------
-- v1.1.0.2022 *This new versions update build coming in 2 December 2022*
+New Versions
 ----------------------------------------------------------------------------------------------------
-Old Versions List:
+- v1.1.0.2022 Latest Release
 ----------------------------------------------------------------------------------------------------
-- v1.0.0.2022 *This is a first released build versions, and there is not changelog able only stock build information available and new build update coming in changelog.*
-
+Old Versions List
+----------------------------------------------------------------------------------------------------
+- v1.0.0.2022
 
 ----------------------------------------------------------------------------------------------------
-- Product Name: Repack Toolkit
+Toolkit Info or Changelog
+----------------------------------------------------------------------------------------------------
+General Info:
+- Toolkit Name: Raptor Repack Toolkit
+- Toolkit Versions: v1.1.0.2022
+- Toolkit Architecture: Both System Supported
+- Toolkit File Space: 41.23 MB
+- Toolkit Designer/Developer: Raptor Repack
+- Toolkit Copyright: ©Raptor Repack 2022,Inc
 
-- Product Version: v1.0.0.2022
-
-- Product Mode: Compact or Non Compact
-
-- Product Designer: Raptor Repack
-
-- Product Copyright: Raptor Repack 2022,Inc
-
+Changelog:
+- Added Compressor v1.0.1.2022 Stable Versions
+- Added New Repack Installer Setup Icon
+- Fixed Header Image Lag
+- Fixed Repack Script
+- Fixed System Performance Stability
+- Include Inno Setup v5.5.4 Unicode Versions
+- Removed Non Compact Mode Script
+- Compact Mode Repack Script Able Only
 ---------------------------------------------------------------------------------------------------
 Follow me: Https://Www.Twitter.Com/RaptorRepack
 ---------------------------------------------------------------------------------------------------
