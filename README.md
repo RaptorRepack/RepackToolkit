@@ -33,7 +33,7 @@ Changelog:
 - Removed Non Compact Mode Script
 - Compact Mode Repack Script Able Only
 ---------------------------------------------------------------------------------------------------
-Importen Note:
+Important Note:
 
 *"This Toolkit Defaultly Selected D:/ Disk"*
 
