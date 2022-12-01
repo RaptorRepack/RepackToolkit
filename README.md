@@ -33,5 +33,12 @@ Changelog:
 - Removed Non Compact Mode Script
 - Compact Mode Repack Script Able Only
 ---------------------------------------------------------------------------------------------------
+Importen Note:
+
+*"This Toolkit Defoultly Selected D:/ Disk"*
+
+*"You Not Be Changed Because I Have Protected To D:/ Disk"*
+
+---------------------------------------------------------------------------------------------------
 Follow me: https://www.twitter.com/raptorrepack
 ---------------------------------------------------------------------------------------------------
