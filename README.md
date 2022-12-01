@@ -33,5 +33,5 @@ Changelog:
 - Removed Non Compact Mode Script
 - Compact Mode Repack Script Able Only
 ---------------------------------------------------------------------------------------------------
-Follow me: Https://Www.Twitter.Com/RaptorRepack
+Follow me: https://www.twitter.com/raptorrepack
 ---------------------------------------------------------------------------------------------------
