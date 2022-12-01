@@ -39,6 +39,8 @@ Important Note:
 
 *"You Not Be Changed Because I Have Protected To D:/ Disk"*
 
+*"Some Users Such Compressor CMD Interface Issues Face In Windows 11"*
+
 ---------------------------------------------------------------------------------------------------
 Follow me: https://www.twitter.com/raptorrepack
 ---------------------------------------------------------------------------------------------------
