@@ -40,7 +40,7 @@ Important Note:
 
 - This Toolkit Defaultly Selected D:/ Disk
 - You Not Be Changed Because I Have Protected To D:/ Disk
-- Some Users Such Compressor CMD Interface Issues Face In Windows 11 22H2
+- Some Users Such Compressor CMD Interface Issues Face In Windows 11 22H2 or Wndows 11 21H2.
 ---------------------------------------------------------------------------------------------------
 Follow me: https://www.twitter.com/raptorrepack
 ---------------------------------------------------------------------------------------------------
