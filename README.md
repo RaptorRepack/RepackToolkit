@@ -35,7 +35,7 @@ Changelog:
 - Include Inno Setup v5.5.4 Unicode Versions
 - Removed Non Compact Mode Script
 - Compact Mode Repack Script Able Only
----------------------------------------------------------------------------------------------------
+
 Important Note:
 
 - This Toolkit Defaultly Selected D:/ Disk
