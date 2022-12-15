@@ -18,7 +18,7 @@ Old Versions
 ----------------------------------------------------------------------------------------------------
 Toolkit Info or Changelog
 ----------------------------------------------------------------------------------------------------
-General Info:
+Toolkit informations:
 - Toolkit Name: Raptor Repack Toolkit
 - Toolkit Versions: v1.1.0.2022
 - Toolkit Architecture: Both System Supported
@@ -36,7 +36,7 @@ Changelog:
 - Removed Non Compact Mode Script
 - Compact Mode Repack Script Able Only
 
-Important Note:
+Important notes:
 
 - This Toolkit Defaultly Selected D:/ Disk
 - You Not Be Changed Because I Have Protected To D:/ Disk
