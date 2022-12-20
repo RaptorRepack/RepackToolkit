@@ -7,7 +7,7 @@ Game Repack ToolKit By Raptor Repack
 
 New or Old Versions Status
 ----------------------------------------------------------------------------------------------------
-New nersions:
+New versions:
 
 - v1.2.0.2023 Coming soon
 
