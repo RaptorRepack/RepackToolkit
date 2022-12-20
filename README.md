@@ -5,7 +5,7 @@ Game Repack ToolKit By Raptor Repack
 
 *This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.*
 
-New or Old Versions Status
+Versions Status
 ----------------------------------------------------------------------------------------------------
 New versions:
 
@@ -16,7 +16,7 @@ Old versions:
 - v1.1.0.2022
 - v1.0.0.2022
 
-Informations or Changelog Status
+Informations Status
 ----------------------------------------------------------------------------------------------------
 Toolkit informations:
 - Toolkit Name: Raptor Repack Toolkit
