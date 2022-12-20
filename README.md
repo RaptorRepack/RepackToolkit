@@ -30,6 +30,6 @@ Important notes:
 
 - Game repack toolkit internal testing started 9:00pm GMT time 20 december 2022.
 - Stable release coming in 15 january 2023.
----------------------------------------------------------------------------------------------------
-Follow me: https://www.twitter.com/raptorrepack
----------------------------------------------------------------------------------------------------
+
+Follow my twitter page:
+- http://shorturl.at/dfDEQ
