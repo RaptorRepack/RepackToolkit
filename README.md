@@ -9,7 +9,7 @@ Game Repack ToolKit By Raptor Repack
 ----------------------------------------------------------------------------------------------------
 New Versions
 ----------------------------------------------------------------------------------------------------
-- v1.2.0.2023 coming soon
+- v1.2.0.2023 Coming soon
 ----------------------------------------------------------------------------------------------------
 Old Versions
 ----------------------------------------------------------------------------------------------------
@@ -21,18 +21,19 @@ Toolkit Info or Changelog
 ----------------------------------------------------------------------------------------------------
 Toolkit informations:
 - Toolkit Name: Raptor Repack Toolkit
-- Toolkit Versions: v1.3.0.2023
+- Toolkit Versions: v1.3.0.2023 Coming soon
 - Toolkit Architecture: 64bit/32bit
 - Toolkit File Space: <...>
 - Toolkit Designer/Developer: Raptor Repack
 - Toolkit Copyright: ©Raptor Repack 2022,Inc
 
 Changelog:
-- coming soon
+- Coming soon.
 
 Important notes:
 
-- 
+- Game repack toolkit internal testing started 9:00pm GMT time 20 december 2022.
+- Stable release coming in 15 january 2023.
 ---------------------------------------------------------------------------------------------------
 Follow me: https://www.twitter.com/raptorrepack
 ---------------------------------------------------------------------------------------------------
