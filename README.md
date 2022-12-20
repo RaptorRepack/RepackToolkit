@@ -2,7 +2,7 @@ This repack toolkit using only offline game repacking or installer create purpos
 
 This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.
 
-Versions Status
+Versions status
 ----------------------------------------------------------------------------------------------------
 New versions:
 
@@ -13,7 +13,7 @@ Old versions:
 - v1.1.0.2022
 - v1.0.0.2022
 
-Informations Status
+Informations status
 ----------------------------------------------------------------------------------------------------
 Toolkit informations:
 - Toolkit Name: Raptor Repack Toolkit
