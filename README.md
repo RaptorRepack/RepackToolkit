@@ -1,4 +1,4 @@
-Game Repack ToolKit By Raptor Repack
+Raptor Repack Official Toolkit
 ----------------------------------------------------------------------------------------------------
 
 *This repack toolkit using only offline game repacking or installer create purpose.*
