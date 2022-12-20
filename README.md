@@ -16,7 +16,7 @@ Old versions:
 - v1.1.0.2022
 - v1.0.0.2022
 
-Toolkit Info or Changelog
+Informations or Changelog Status
 ----------------------------------------------------------------------------------------------------
 Toolkit informations:
 - Toolkit Name: Raptor Repack Toolkit
