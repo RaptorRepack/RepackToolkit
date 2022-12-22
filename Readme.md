@@ -25,12 +25,12 @@ Important notes:
 - Game repack toolkit internal testing started 9:00pm GMT time 20 december 2022.
 - Stable release coming in 15 january 2023.
 
-Upcoming versions list
+Upcoming versions
 -----------------------------------------------
 Versions:
 - v1.2.0.2023 📌
 
-Older versions list
+Older versions
 -----------------------------------------------
 Versions:
 - v1.1.0.2022 ✅
