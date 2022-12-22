@@ -22,7 +22,7 @@ Changelog:
 
 Important notes:
 
-- Game repack toolkit internally testing started 5:30pm (GMT-6:00) time 22 december 2022.
+- Game repack toolkit internally testing started 5:40pm (GMT-6:00) time 22 december 2022.
 - Stable release coming in 15 january 2023.
 
 Upcoming versions
