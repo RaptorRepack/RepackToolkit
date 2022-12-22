@@ -8,7 +8,7 @@ New versions:
 
 - v1.2.0.2023 Coming soon
 
-Old versions:
+Older versions:
 
 - v1.1.0.2022
 - v1.0.0.2022
