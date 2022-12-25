@@ -5,7 +5,7 @@ This repack toolkit fully open source software and this toolkit all data availab
 Latest versions
 -----------------------------------------------
 Versions:
-- v1.2.0.2023 Only Project Files And Changelog Released ✅
+- v1.2.0.2023 Only project files released ✅
 
 Informations status
 -----------------------------------------------
@@ -19,11 +19,7 @@ Toolkit informations:
 - Toolkit Copyright: © Raptor Repack 2023,Inc
 
 Changelog:
-- Added: New game data compressor v1.1.0.0
-- Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
-- Fixed: Compressor CI (CMD Interface) all dialogs issues
-- Fixed: Repack script stability or system performance
-- Fixed: Repack toolkit optimizations performance
+- 15th January 2023 Stay Soon.
 
 Important notes:
 
