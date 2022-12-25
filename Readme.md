@@ -3,26 +3,31 @@ This repack toolkit using only offline game repacking or installer create purpos
 This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.
 
 Latest versions
-----------------------------------------------------------------------------------------------------
+-----------------------------------------------
 Versions:
-- v1.1.0.2022 Released ✅
+- v1.2.0.2023 Only Project Files And Changelog Released ✅
 
 Informations status
-----------------------------------------------------------------------------------------------------
+-----------------------------------------------
 Toolkit informations:
-- Toolkit Name: Very soon 🔜
-- Toolkit Versions: Very soon 🔜
+- Toolkit Name: Game Repack Toolkit
+- Toolkit Versions: v1.2.0.2023
 - Toolkit Architecture: 64bit/32bit
 - Toolkit File Space: Very soon 🔜
-- Toolkit Designer/Developer: Raptor Repack
+- Toolkit Designer: Raptor Repack
+- Toolkit Developer: Raptor Repack
 - Toolkit Copyright: © Raptor Repack 2023,Inc
 
 Changelog:
-- Very soon 🔜
+- Added: New game data compressor v1.1.0.0
+- Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
+- Fixed: Compressor CI (CMD Interface) all dialogs issues
+- Fixed: Repack script stability or system performance
+- Fixed: Repack toolkit optimizations performance
 
 Important notes:
 
-- Game repack toolkit internally testing started 5:40pm (GMT-6:00) time 22 december 2022.
+- Game repack toolkit internally testing has been closed.
 - Stable release coming in 15 january 2023.
 
 Upcoming versions
