@@ -1,0 +1,29 @@
+{
+	"asset": "FossilizeApplicationInfoFilter",
+	"version": 1,
+	"engineFilters": {
+		"DXVK": {
+			"minimumEngineVersion": 4222979,
+			"bucketVariantDependencies" : [
+				"EngineName",
+				"EngineVersionMajor"
+			],
+			"recordImmutableSamplers" : false
+		},
+		"vkd3d": {
+			"minimumEngineVersion": 8392704,
+			"blacklistedEnvironments" : {
+				"VKD3D_CONFIG" : { "contains" : "descriptor_qa_checks" }
+			},
+			"bucketVariantDependencies" : [
+				"BindlessUBO",
+				"VendorID",
+				"MutableDescriptorType",
+				"BufferDeviceAddress",
+				"EngineName",
+				"EngineVersionMajor",
+				"EngineVersionMinor"
+			]
+		}
+	}
+}
