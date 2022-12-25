@@ -25,6 +25,7 @@ Important notes:
 
 - Game repack toolkit internally testing has been closed.
 - Stable release coming in 15 january 2023.
+- If you my (Toolkit_v1.2) project files downloaded, so please renamed to "Toolkit" that's it.
 
 Upcoming versions
 -----------------------------------------------
