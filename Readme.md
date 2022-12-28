@@ -36,4 +36,4 @@ Important notes
 
 Social media
 -----------------------------------------------
-Twitter page ➡️ http://shorturl.at/dfDEQ
+Twitter page: http://shorturl.at/dfDEQ
