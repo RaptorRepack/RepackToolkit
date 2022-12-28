@@ -18,7 +18,7 @@ Changelog
 
 Latest versions
 -----------------------------------------------
-- v1.2.0.2023 not released only release project files.
+- v1.2.0.2023 "Not released only release project files"
 
 Older versions
 -----------------------------------------------
