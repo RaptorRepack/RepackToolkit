@@ -7,7 +7,7 @@ Informations status
 - Toolkit Name: Game Repack Toolkit
 - Toolkit Versions: v1.2.0.2023
 - Toolkit Architecture: 64bit/32bit
-- Toolkit File Space: Very soon 🔜
+- Toolkit File Space: Very soon
 - Toolkit Designer: Raptor Repack
 - Toolkit Developer: Raptor Repack
 - Toolkit Copyright: © Raptor Repack 2023,Inc
@@ -36,4 +36,4 @@ Important notes
 
 Social media
 -----------------------------------------------
-Twitter page 👉 http://shorturl.at/dfDEQ
+Twitter page → http://shorturl.at/dfDEQ
