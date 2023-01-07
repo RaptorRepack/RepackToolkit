@@ -32,7 +32,7 @@ Upcoming versions
 Important notes
 -----------------------------------------------
 - Stable release coming in 15 january 2023.
-- If you my (Toolkit_v1.2) project files downloaded, so please renamed to "Toolkit" that's it.
+- If you my project files downloaded, please project file name renamed to "Toolkit" because compressor working for "Toolkit" file name and install now compressor and then use to compressor.
 
 Social media
 -----------------------------------------------
