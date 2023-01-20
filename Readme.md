@@ -31,7 +31,7 @@ Upcoming versions
 
 Important notes
 -----------------------------------------------
-- Stable release coming in 15 january 2023.
+- Stable release coming in 25 january 2023.
 
 
 Social media
