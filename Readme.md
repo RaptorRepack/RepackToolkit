@@ -14,11 +14,11 @@ Informations status
 
 Changelog
 -----------------------------------------------
-- 15th January 2023 Stay Soon.
+- 25 January 2023 Stay Soon.
 
 Latest versions
 -----------------------------------------------
-- v1.2.0.2023 "Not released only release project files"
+- v1.2.0.2023 Testing Processing Stage
 
 Older versions
 -----------------------------------------------
@@ -27,12 +27,12 @@ Older versions
 
 Upcoming versions
 -----------------------------------------------
-- v1.2.0.2023
+- v1.3.0.0
 
 Important notes
 -----------------------------------------------
 - Stable release coming in 15 january 2023.
-- If you my project files downloaded, please project file name renamed to "Toolkit" because compressor working for "Toolkit" file name and install now compressor and then use to compressor.
+
 
 Social media
 -----------------------------------------------
