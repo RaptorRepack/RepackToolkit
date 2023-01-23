@@ -7,18 +7,14 @@ Informations status
 - Toolkit Name: Game Repack Toolkit
 - Toolkit Versions: v1.2.0.2023
 - Toolkit Architecture: 64bit/32bit
-- Toolkit File Space: Very soon
+- Toolkit File Space: <..>
 - Toolkit Designer: Raptor Repack
 - Toolkit Developer: Raptor Repack
 - Toolkit Copyright: © Raptor Repack 2023,Inc
 
-Changelog
------------------------------------------------
-- 25 January 2023 Stay Soon.
-
 Latest versions
 -----------------------------------------------
-- v1.2.0.2023 Testing Processing Stage
+- v1.2.0.2023 Setup Build Completed, Release For Wait Please
 
 Older versions
 -----------------------------------------------
@@ -27,12 +23,11 @@ Older versions
 
 Upcoming versions
 -----------------------------------------------
-- v1.3.0.0
+- v1.3.0.0 Not Sure
 
 Important notes
 -----------------------------------------------
 - Stable release coming in 25 january 2023.
-
 
 Social media
 -----------------------------------------------
