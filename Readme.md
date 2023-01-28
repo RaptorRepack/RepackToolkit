@@ -1,4 +1,4 @@
-This repack toolkit using only offline game repacking or setup/installer create purpose.
+This repack toolkit using only offline game repacking or installer create purpose.
 
 This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.
 
