@@ -28,7 +28,7 @@ Upcoming versions
 
 Important notes
 -----------------------------------------------
-- Next Version Game Repack Toolkit Just Announced..!
+- New Version Game Repack Toolkit Just Announced..!
 
 Social media
 -----------------------------------------------
