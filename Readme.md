@@ -5,9 +5,9 @@ This repack toolkit fully open source software and this toolkit all data availab
 Informations status
 -----------------------------------------------
 - Toolkit Name: Game Repack Toolkit
-- Toolkit Versions: v1.2.0.2023
+- Toolkit Versions: v1.3.0.0 Coming Soon...
 - Toolkit Architecture: 64bit/32bit
-- Toolkit File Space: 48 MB
+- Toolkit File Space: <...> Coming Soon...
 - Toolkit Designer: Raptor Repack
 - Toolkit Developer: Raptor Repack
 - Toolkit Copyright: © Raptor Repack 2023,Inc
@@ -18,16 +18,17 @@ Latest versions
 
 Older versions
 -----------------------------------------------
+- v1.2.0.2023
 - v1.1.0.2022
 - v1.0.0.2022
 
 Upcoming versions
 -----------------------------------------------
-- v1.3.0.0 Not Sure
+- v1.3.0.0 Coming Soon...
 
 Important notes
 -----------------------------------------------
-- Next Version To Wait Please
+- Next Version Game Repack Toolkit Just Announced..!
 
 Social media
 -----------------------------------------------
