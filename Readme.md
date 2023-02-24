@@ -15,6 +15,7 @@ Informations status
 Latest versions
 -----------------------------------------------
 - v1.2.9.0 Beta (Not Released, Under Development Process)
+- v1.3.0.0 Coming Soon...
 
 Older versions
 -----------------------------------------------
