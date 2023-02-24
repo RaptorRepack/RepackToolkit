@@ -2,7 +2,7 @@ This repack toolkit using only offline game repacking or installer create purpos
 
 This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.
 
-Informations status
+Toolkit Information
 -----------------------------------------------
 - Toolkit Name: Game Repack Toolkit
 - Toolkit Versions: v1.2.9.0 Beta
@@ -12,27 +12,27 @@ Informations status
 - Toolkit Developer: Raptor Repack
 - Toolkit Copyright: © Raptor Repack 2023,Inc
 
-Latest versions
+Latest Version
 -----------------------------------------------
 - v1.2.9.0 Beta (Not Released, Under Development Process)
 - v1.3.0.0 Coming Soon...
 
-Older versions
+Older Version
 -----------------------------------------------
 - v1.2.0.2023
 - v1.1.0.2022
 - v1.0.0.2022
 
-Upcoming versions
+Upcoming Version
 -----------------------------------------------
 - v1.3.0.0 Coming Soon...
 
-Important notes
+Important Notes
 -----------------------------------------------
 - Game Repack Toolkit v1.2.9.0 Beta (.exe) File Coming 10 March 2023.
 - This Beta Game Repack Toolkit To Included (Compressor v1.1.9.0 Beta).
 - This Beta Game Repack Toolkit Under Development Process Started.
 
-Social media
+Social Media
 -----------------------------------------------
 Twitter page: https://t.ly/wM1r
