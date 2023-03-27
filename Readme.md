@@ -17,7 +17,6 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-- v1.2.9.0 Beta (Not Released, Under Development Process)
 - v1.3.0.0 Coming Soon...
 
 Older Version
@@ -32,9 +31,7 @@ Upcoming Version
 
 Important Notes
 -----------------------------------------------
-- Game Repack Toolkit v1.2.9.0 Beta (.exe) File Coming 10 March 2023.
-- This Beta Game Repack Toolkit To Included (Compressor v1.1.9.0 Beta).
-- This Beta Game Repack Toolkit Under Development Process Started.
+- Game Repack Toolkit v1.3.0.0 Coming Soon...
 
 Social Media
 -----------------------------------------------
