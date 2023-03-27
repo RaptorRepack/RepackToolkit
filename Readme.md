@@ -33,7 +33,7 @@ Upcoming Version
 Important Notes
 -----------------------------------------------
 - Game Repack Toolkit v1.3.0.0 Coming Soon.
-- Game Repack Toolkit v1.2.9.0 Beta Executive .exe Installer File Release Very Soon.
+- Game Repack Toolkit v1.2.9.0 Beta Executive (.exe) Installer File Release Very Soon.
 
 Social Media
 -----------------------------------------------
