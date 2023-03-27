@@ -8,7 +8,7 @@ This repack toolkit fully open source software and this toolkit all data availab
 Toolkit Information
 -----------------------------------------------
 - Toolkit Name: Game Repack Toolkit
-- Toolkit Versions: v1.2.9.0 Beta
+- Toolkit Versions: v1.3.0.0
 - Toolkit Architecture: 64bit/32bit
 - Toolkit File Space: <...>
 - Toolkit Designer: Raptor Repack
