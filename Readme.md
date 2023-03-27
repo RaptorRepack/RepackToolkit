@@ -17,21 +17,21 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-• v1.3.0.0 Coming Soon...
+- v1.3.0.0 Coming Soon...
 
 Older Version
 -----------------------------------------------
-• v1.2.0.2023 Stable ✅
-• v1.1.0.2022 Beta ✅
-• v1.0.0.2022 Beta ✅
+- v1.2.0.2023 Stable ✅
+- v1.1.0.2022 Beta ✅
+- v1.0.0.2022 Beta ✅
 
 Upcoming Version
 -----------------------------------------------
-• v1.3.0.0 Coming Soon...
+- v1.3.0.0 Coming Soon...
 
 Important Notes
 -----------------------------------------------
-• Game Repack Toolkit v1.3.0.0 Coming Soon...
+- Game Repack Toolkit v1.3.0.0 Coming Soon...
 
 Social Media
 -----------------------------------------------
