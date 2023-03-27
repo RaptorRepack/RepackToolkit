@@ -7,13 +7,13 @@ Toolkit Notes
 
 Toolkit Information
 -----------------------------------------------
-• Toolkit Name: Game Repack Toolkit
-• Toolkit Versions: v1.3.0.0
-• Toolkit Architecture: 64bit/32bit
-• Toolkit File Space: <...>
-• Toolkit Designer: Raptor Repack
-• Toolkit Developer: Raptor Repack
-• Toolkit Copyright: © Raptor Repack 2023,Inc
+- Toolkit Name: Game Repack Toolkit
+- Toolkit Versions: v1.3.0.0
+- Toolkit Architecture: 64bit/32bit
+- Toolkit File Space: <...>
+- Toolkit Designer: Raptor Repack
+- Toolkit Developer: Raptor Repack
+- Toolkit Copyright: © Raptor Repack 2023,Inc
 
 Latest Version
 -----------------------------------------------
