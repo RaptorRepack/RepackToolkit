@@ -17,7 +17,7 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-- v1.2.0.2023 RELEASED!
+- v1.2.9.0 Beta Release In 5 April 2023
 
 Older Version
 -----------------------------------------------
