@@ -33,6 +33,7 @@ Important Notes
 -----------------------------------------------
 - Game Repack Toolkit v1.2.9.0 Beta Release In 5 April 2023.
 - Game Repack Toolkit v1.2.9.0 Beta ChangeLog Soon.
+- Game Repack Toolkit Not Available In Compressors And Compressor Separately Coming In 6 April 2023.
 
 Social Media
 -----------------------------------------------
