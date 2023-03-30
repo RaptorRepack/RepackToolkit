@@ -32,8 +32,9 @@ Upcoming Version
 
 Important Notes
 -----------------------------------------------
-- Game Repack Toolkit v1.3.0.0 Coming Soon.
-- Game Repack Toolkit v1.2.9.0 Beta Executable (.exe) Installer File Release Very Soon.
+- Game Repack Toolkit v1.2.9.0 Beta Executable (.exe) Installer File Release Soon.
+- Game Repack Toolkit v1.2.9.0 Beta Release In 5 April 2023.
+- Game Repack Toolkit v1.2.9.0 Beta ChangeLog Soon.
 
 Social Media
 -----------------------------------------------
