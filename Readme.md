@@ -10,14 +10,14 @@ Toolkit Information
 - Toolkit Name: Game Repack Toolkit
 - Toolkit Versions: v1.2.9.0 Beta
 - Toolkit Architecture: 64bit/32bit
-- Toolkit File Space: <...>
+- Toolkit File Space: 1x.xx MB
 - Toolkit Designer: Raptor Repack
 - Toolkit Developer: Raptor Repack
 - Toolkit Copyright: © Raptor Repack 2023,Inc
 
 Latest Version
 -----------------------------------------------
-- v1.2.9.0 Beta Release In 5 April 2023
+- v1.2.9.0 Beta (Development Process)
 
 Older Version
 -----------------------------------------------
@@ -27,12 +27,11 @@ Older Version
 
 Upcoming Version
 -----------------------------------------------
-- v1.3.0.0 Coming Soon...
+- v1.3.0.0 Very Soon...
 
 Important Notes
 -----------------------------------------------
-- Game Repack Toolkit v1.2.9.0 Beta Release In 5 April 2023.
-- This Game Repack Toolkit Not Included Data Compressor And Data Compressor Separately Coming In 6 April 2023.
+- Game Repack Toolkit v1.2.9.0 Beta Project Files Tomorrow Release Planned.
 
 Social Media
 -----------------------------------------------
