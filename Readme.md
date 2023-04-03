@@ -9,8 +9,8 @@ Toolkit Information
 -----------------------------------------------
 - Toolkit Name: Game Repack Toolkit
 - Toolkit Versions: v1.2.9.0 Beta
-- Toolkit Architecture: 64bit/32bit
-- Toolkit File Space: 1x.xx MB
+- Toolkit Architecture: 64bit
+- Toolkit File Space: 54.17 MB
 - Toolkit Designer: Raptor Repack
 - Toolkit Developer: Raptor Repack
 - Toolkit Copyright: © Raptor Repack 2023,Inc
