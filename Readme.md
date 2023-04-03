@@ -17,7 +17,7 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-- v1.2.9.0 Beta (Development Process)
+- v1.2.9.0 Beta Release In April 5
 
 Older Version
 -----------------------------------------------
@@ -31,7 +31,7 @@ Upcoming Version
 
 Important Notes
 -----------------------------------------------
-- Game Repack Toolkit v1.2.9.0 Beta Project Files Tomorrow Release Planned.
+- Game Repack Toolkit v1.2.9.0 Beta Project Files RELEASD!
 
 Social Media
 -----------------------------------------------
