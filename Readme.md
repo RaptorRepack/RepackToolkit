@@ -31,7 +31,7 @@ Upcoming Version
 
 Important Notes
 -----------------------------------------------
-- Game Repack Toolkit v1.2.9.0 Beta Project Files RELEASD!
+- Game Repack Toolkit v1.2.9.0 Beta RELEASD!
 
 Social Media
 -----------------------------------------------
