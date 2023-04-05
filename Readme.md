@@ -17,7 +17,7 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-- v1.2.9.0 Beta Release In April 5
+- v1.2.9.0 Beta RELEASED!
 
 Older Version
 -----------------------------------------------
