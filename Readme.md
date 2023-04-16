@@ -35,14 +35,13 @@ Upcoming Version
 -----------------------------------------------
 - Toolkit v2.0.0.0
 - Toolkit Pro v2.0.0.0
-- Release Very Soon
+- Release very soon
 
 Important Notes
 -----------------------------------------------
-- Toolkit v2.0.0.0 And Toolkit Pro v2.0.0.0 Release Very Soon.
-- Toolkit Pro Comes In Compressor In Build And Toolkit Normal Verient Not Comes Compressor In Build.
-- Beta Program Not Coming and Not Coming Executable (.exe) Files.
-- Beta Program Source Code Release Only.
+- Toolkit Pro available build in Compressor and Toolkit Normal verient not available build in Compressor.
+- Beta program not coming and not coming executable (.exe) files.
+- Beta program source code release only.
 
 Social Media
 -----------------------------------------------
