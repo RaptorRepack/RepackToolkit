@@ -7,7 +7,7 @@ Toolkit Notes
 
 • Toolkit Pro version coming added all new features, improvements and more stability full toolkit supports, This toolkit added new design user interface.
 
-• Toolkit normal version coming some features changes or improvements supports, This toolkit user interface old design.
+• Toolkit normal version coming some features changes or improvements supports, This toolkit comes user interface old design.
 
 Toolkit Information
 -----------------------------------------------
