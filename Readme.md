@@ -21,8 +21,7 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-- Release Very Soon In Toolkit Pro Version Or Toolkit Normal Version.
-- This Toolkits File Version Same But User Interface Not Same.
+- Toolkit v2.0.0.0 and Toolkit Pro v2.0.0.0 Release Very Soon.
 
 Older Version
 -----------------------------------------------
