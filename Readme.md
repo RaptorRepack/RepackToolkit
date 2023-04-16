@@ -9,7 +9,7 @@ Toolkit Notes
 
 Toolkit Information
 -----------------------------------------------
-- Toolkit Name: Game Repack Toolkit
+- Toolkit Name: Toolkit Pro/Toolkit
 - Toolkit Versions: v2.0.0.0
 - Toolkit Architecture: 64bit
 - Toolkit File Space: 1xxx MB
