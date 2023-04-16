@@ -33,14 +33,14 @@ Older Version
 
 Upcoming Version
 -----------------------------------------------
-- Toolkit Pro v2.0.0.0
 - Toolkit v2.0.0.0
-- This Tow New Different Varieties Release Very Soon.
+- Toolkit Pro v2.0.0.0
+- Release Very Soon
 
 Important Notes
 -----------------------------------------------
-- Game Repack Toolkit Name Has been Changed! New Name Is "Toolkit or Toolkit Pro"
-- Toolkit Pro Coming New Design and New Features our Toolkit Coming Some Changes Only.
+- Toolkit v2.0.0.0 And Toolkit Pro v2.0.0.0 Release Very Soon.
+- Toolkit Pro Comes In Compressor In Build And Toolkit Normal Verient Not Comes Compressor In Build.
 - Beta Program Not Coming and Not Coming Executable (.exe) Files.
 - Beta Program Source Code Release Only.
 
