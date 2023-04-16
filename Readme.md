@@ -11,7 +11,7 @@ Toolkit Notes
 
 Toolkit Information
 -----------------------------------------------
-- Toolkit Name: Toolkit Pro/Toolkit
+- Toolkit Name: Toolkit/Toolkit Pro
 - Toolkit Versions: v2.0.0.0
 - Toolkit Architecture: 64bit
 - Toolkit File Space: 1xxx MB
