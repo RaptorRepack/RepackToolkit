@@ -5,9 +5,9 @@ Toolkit Notes
 
 • This repack toolkit fully open source software and this toolkit all data available for my GitHub page only.
 
-• Toolkit Pro version coming added all new features, improvements and more stability full toolkit supports, This toolkit added new design user interface.
+• Toolkit Pro variant to added all new features, improvements and more stability full toolkit supports, This toolkit added new design user interface.
 
-• Toolkit normal version coming some features changes or improvements supports, This toolkit comes user interface old design.
+• Toolkit normal variant to some features changes and improvements supports, This toolkit comes user interface old design.
 
 Toolkit Information
 -----------------------------------------------
