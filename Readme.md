@@ -22,7 +22,7 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-- Toolkit v2.0.0.0 and Toolkit Pro v2.0.0.0 Release Very Soon.
+- Toolkit v2.0.0.0 and Toolkit Pro v2.0.0.0 Release Soon.
 
 Older Version
 -----------------------------------------------
@@ -35,13 +35,14 @@ Upcoming Version
 -----------------------------------------------
 - Toolkit v2.0.0.0
 - Toolkit Pro v2.0.0.0
-- Release very soon
+- Release soon
 
 Important Notes
 -----------------------------------------------
 - Toolkit Pro available build in Compressor and Toolkit Normal verient not available build in Compressor.
 - Beta program not coming and not coming executable (.exe) files.
 - Beta program source code release only.
+- Toolkit or Toolkit Pro source code release soon.
 
 Social Media
 -----------------------------------------------
