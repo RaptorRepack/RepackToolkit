@@ -39,11 +39,13 @@ Upcoming Version
 
 Important Notes
 -----------------------------------------------
-- Toolkit Pro available build in Compressor and Toolkit Normal verient not available build in Compressor.
+- Toolkit or Toolkit Pro available build in Compressor.
 - Beta program not coming and not coming executable (.exe) files.
-- Beta program source code release only.
+- Beta version or Stable version source code release only.
 - Toolkit or Toolkit Pro source code release soon.
 - Toolkit v2.0.0.0 or Toolkit Pro v2.0.0.0 development process started.
+- Toolkit development process 50% complete.
+- Toolkit Pro development process 60% complete.
 
 Social Media
 -----------------------------------------------
