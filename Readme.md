@@ -14,7 +14,7 @@ Toolkit Information
 - Toolkit Name: Toolkit/Toolkit Pro
 - Toolkit Versions: v2.0.0.0
 - Toolkit Architecture: 64bit
-- Toolkit File Space: 1x.xx MB
+- Toolkit File Space: 67.38 MB
 - Toolkit Pro File Space: 1x.xx MB
 - Toolkit Designer: Raptor Repack
 - Toolkit Developer: Raptor Repack
@@ -22,7 +22,7 @@ Toolkit Information
 
 Latest Version
 -----------------------------------------------
-- Toolkit v2.0.0.0 and Toolkit Pro v2.0.0.0 Release Soon.
+- Toolkit v2.0.0.0 RELEASED
 
 Older Version
 -----------------------------------------------
@@ -33,19 +33,14 @@ Older Version
 
 Upcoming Version
 -----------------------------------------------
-- Toolkit v2.0.0.0
 - Toolkit Pro v2.0.0.0
-- Release soon
 
 Important Notes
 -----------------------------------------------
-- Toolkit or Toolkit Pro available build in Compressor.
+- Toolkit Pro v2.0.0.0 some issues here, tomorrow coming this pro variant toolkit.
 - Beta program not coming and not coming executable (.exe) files.
 - Beta version or Stable version source code release only.
-- Toolkit or Toolkit Pro source code release soon.
-- Toolkit v2.0.0.0 or Toolkit Pro v2.0.0.0 development process started.
-- Toolkit development process 80% complete.
-- Toolkit Pro development process 80% complete.
+- Toolkit v2.0.0.0 source code released.
 
 Social Media
 -----------------------------------------------
