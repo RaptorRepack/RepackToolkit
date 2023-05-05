@@ -1,2 +1,0 @@
-Toolkit version: v2.0.0.0 Stable (English-Us)
-Compressor version: v2.0.0.0 Stable (English-Us)
