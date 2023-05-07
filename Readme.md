@@ -37,10 +37,10 @@ Upcoming Version
 
 Important Notes
 -----------------------------------------------
-- Toolkit Pro v2.0.0.0 some issues here, tomorrow coming this pro variant toolkit.
-- Beta program not coming and not coming executable (.exe) files.
-- Beta version or Stable version source code release only.
-- Toolkit v2.0.0.0 source code released.
+- Toolkit Pro v2.0.0.0 this month to release not possible because Windows 11 22H2 latest update not compatible in Toolkit Pro variant and next month Toolkit Pro release possible.
+- Windows 11 22H2 next new update compatibility checking for Toolkit Pro, and release date sharing via Twitter page only.
+- Toolkit v2.0.0.0 non pro variant source code released.
+- Toolkit Pro v2.0.0.0 source code release soon.
 
 Social Media
 -----------------------------------------------
