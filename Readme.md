@@ -15,7 +15,7 @@ Toolkit Information
 - Product Versions: v2.0.0.0
 - Product Architecture: 64bit
 - Product File Space: 67.38 MB
-- Product File Space: 1x.xx MB (Pro variant)
+- Product File Space: 1x.xx MB (Pro)
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023,Inc
