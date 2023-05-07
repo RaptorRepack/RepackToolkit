@@ -11,14 +11,14 @@ Toolkit Notes
 
 Toolkit Information
 -----------------------------------------------
-- Toolkit Name: Toolkit/Toolkit Pro
-- Toolkit Versions: v2.0.0.0
-- Toolkit Architecture: 64bit
-- Toolkit File Space: 67.38 MB
-- Toolkit Pro File Space: 1x.xx MB
-- Toolkit Designer: Raptor Repack
-- Toolkit Developer: Raptor Repack
-- Toolkit Copyright: © Raptor Repack 2023,Inc
+- Product Name: Toolkit/Toolkit Pro
+- Product Versions: v2.0.0.0
+- Product Architecture: 64bit
+- Product File Space: 67.38 MB
+- Product File Space: 1x.xx MB (Pro variant)
+- Product Designer: Raptor Repack
+- Product Developer: Raptor Repack
+- Product Copyright: © Raptor Repack 2023,Inc
 
 Latest Version
 -----------------------------------------------
