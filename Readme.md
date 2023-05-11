@@ -37,8 +37,8 @@ Upcoming Version
 
 Important Notes
 -----------------------------------------------
-- Toolkit Pro v2.0.0.0 this month to release not possible because Windows 11 22H2 latest update not compatible in Toolkit Pro variant and next month Toolkit Pro release possible.
-- Windows 11 22H2 next new update compatibility checking for Toolkit Pro, and release date sharing via Twitter page only.
+- Windows 11 22H2 latest update compatibility checking done.
+- Toolkit Pro v2.0.0.0 release in 14 May 2023 6:00pm
 - Toolkit v2.0.0.0 non pro variant source code released.
 - Toolkit Pro v2.0.0.0 source code release soon.
 
