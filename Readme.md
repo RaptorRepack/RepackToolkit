@@ -11,6 +11,8 @@ Toolkit Notes
 
 • Toolkit normal variant to available some features changes and improvements supports, This toolkit UI design not any changed and you looking same old design UI.
 
+• This Toolkit normal variant will get update every one months.
+
 Toolkit Information
 -----------------------------------------------
 - Product Name: Toolkit/Toolkit Pro
