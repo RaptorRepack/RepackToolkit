@@ -1,4 +1,4 @@
-Toolkit Notes
+Read Notes
 -----------------------------------------------
 
 • This repack toolkit using only offline game repacking or installer create purpose.
@@ -17,7 +17,7 @@ Toolkit Notes
 
 • This Toolkit normal variant will get beta updates and source code files release.
 
-Toolkit Information
+Product Information
 -----------------------------------------------
 - Product Name: Toolkit/Toolkit Pro
 - Product Versions: v2.0.0.0
