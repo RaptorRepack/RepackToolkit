@@ -9,17 +9,23 @@ Toolkit Notes
 
 • This Toolkit Pro variant will get update every two months.
 
+• This Toolkit Pro variant not will get beta updates and source code files release.
+
 • Toolkit normal variant to available some features changes and improvements supports, This toolkit UI design not any changed and you looking same old design UI.
 
 • This Toolkit normal variant will get update every one months.
+
+• This Toolkit normal variant will get beta updates and source code files release.
 
 Toolkit Information
 -----------------------------------------------
 - Product Name: Toolkit/Toolkit Pro
 - Product Versions: v2.0.0.0
+- Product Versions: v2.1.9.0 (Beta)
 - Product Architecture: 64bit
 - Product File Space: 67.38 MB
 - Product File Space: 1x.xx MB (Pro)
+- Product File Space: 1x.xx MB (Beta)
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023,Inc
@@ -38,6 +44,7 @@ Older Version
 Upcoming Version
 -----------------------------------------------
 - Toolkit Pro v2.0.0.0
+- Toolkit v2.1.9.0 Beta
 
 Important Notes
 -----------------------------------------------
@@ -45,6 +52,7 @@ Important Notes
 - Toolkit Pro v2.0.0.0 release in 14 May 2023 6:00pm.
 - Toolkit v2.0.0.0 non pro variant source code released.
 - Toolkit Pro v2.0.0.0 source code release soon.
+- Toolkit v2.1.9.0 Beta source code release soon.
 
 Social Media
 -----------------------------------------------
