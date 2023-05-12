@@ -19,13 +19,14 @@ Read Notes
 
 Product Information
 -----------------------------------------------
-- Product Name: Toolkit/Toolkit Pro
+- Product Name: Toolkit
+- Product Variant: Normal and Pro
 - Product Versions: v2.0.0.0
 - Product Versions: v2.1.9.0 (Beta)
 - Product Architecture: 64bit
-- Product File Space: 67.38 MB
-- Product File Space: 1x.xx MB (Pro)
-- Product File Space: 1x.xx MB (Beta)
+- Product Disk Space: 67.38 MB
+- Product Disk Space: 1x.xx MB (Pro)
+- Product Disk Space: 1x.xx MB (Beta)
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023,Inc
