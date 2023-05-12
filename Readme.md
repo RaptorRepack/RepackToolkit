@@ -7,6 +7,8 @@ Toolkit Notes
 
 • Toolkit Pro variant to available all new features, improvements and more stability supports, This toolkit added new design UI.
 
+• This Toolkit Pro variant will get update every two months.
+
 • Toolkit normal variant to available some features changes and improvements supports, This toolkit UI design not any changed and you looking same old design UI.
 
 Toolkit Information
