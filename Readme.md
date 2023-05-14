@@ -19,8 +19,8 @@ Product Information
 - Product Versions: v2.1.9.0 (Beta)
 - Product OS: Windows 11 22H2 or Higher
 - Product Architecture: 64bit
-- Product Disk Space: 67.38 MB
-- Product Disk Space: 1x.xx MB (Beta)
+- Product Disk Space Size: 67.38 MB
+- Product Disk Space Size: 1x.xx MB (Beta)
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023,Inc
