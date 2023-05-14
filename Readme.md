@@ -39,7 +39,7 @@ Older Version
 Upcoming Version
 ----------------
 - Toolkit Pro v2.0.0.0
-- Toolkit v2.1.9.0 Beta
+- Toolkit v2.1.9.0 Beta This Month Coming...
 
 Important Notes
 ---------------
