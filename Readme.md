@@ -1,5 +1,5 @@
-Readme
-------
+Read the notes
+--------------
 
 • This repack Toolkit using only offline game repacking or installer create purpose.
 
@@ -11,7 +11,7 @@ Readme
 
 • This Toolkit normal variant will get beta updates and beta source code files release.
 
-Product Information
+Product information
 -------------------
 - Product Name: Toolkit Beta
 - Product Language: English-Us
@@ -23,11 +23,11 @@ Product Information
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023,Inc
 
-Latest Version
+Latest version
 --------------
 - Toolkit Beta v2.1.9.0 Release Soon...
 
-Older Version
+Older version
 -------------
 - v2.0.0.0 Stable ✅
 - v1.2.9.0 Beta ✅
@@ -35,14 +35,14 @@ Older Version
 - v1.1.0.2022 Beta ✅
 - v1.0.0.2022 Beta ✅
 
-Upcoming Version
+Upcoming version
 ----------------
 - Toolkit Beta v2.1.9.0
 
-Important Notes
+Important notes
 ---------------
 - Toolkit Beta v2.1.9.0 source code release soon.
 
-Social Media
+Social media
 ------------
 Twitter page: https://t.ly/wM1r
