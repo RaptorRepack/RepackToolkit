@@ -10,6 +10,8 @@ Read the Toolkit notes
 
 • This repack Toolkit will get beta updates and beta source code every 1 months.
 
+• Toolkit related all information Sharing with Twitter page, Please follow now Twitter Page.
+
 Product information
 -------------------
 - Product Name: Toolkit Beta
@@ -40,6 +42,7 @@ Upcoming version
 
 Important notes
 ---------------
+- Toolkit Beta v2.1.9.0 beta testing started.
 - Toolkit Beta v2.1.9.0 source code release soon.
 
 Social media
