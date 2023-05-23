@@ -5,11 +5,10 @@ Read the Toolkit notes
 
 • This repack Toolkit fully open source software and this Toolkit all data available for my GitHub page only.
 
-• Toolkit normal variant to available some features changes and improvements supports, This Toolkit UI design not any changed and you looking same old design UI.
 
-• This Toolkit normal variant will get stable updates and stable source code every 1 months.
+• This repack Toolkit will get stable updates and stable source code every 2 months.
 
-• This Toolkit normal variant will get beta updates and beta source code files release.
+• This repack Toolkit will get beta updates and beta source code every 1 months.
 
 Product information
 -------------------
