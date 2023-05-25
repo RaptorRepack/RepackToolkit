@@ -25,7 +25,7 @@ Product information
 
 Latest version
 --------------
-- Toolkit Beta v2.1.9.0 Release Soon...
+- Toolkit Beta v2.1.9.0 Soon...
 
 Older version
 -------------
