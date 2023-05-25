@@ -21,7 +21,7 @@ Product information
 - Product Disk Space Size: 40.94 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
-- Product Copyright: © Raptor Repack 2023,Inc
+- Product Copyright: © Raptor Repack 2023 Co.Inc
 
 Latest version
 --------------
