@@ -25,7 +25,7 @@ Product information
 
 Latest version
 --------------
-- Toolkit Beta v2.1.9.0 Today
+- Toolkit Beta v2.1.9.0 RELEASED!
 
 Older version
 -------------
@@ -41,7 +41,7 @@ Upcoming version
 
 Important notes
 ---------------
-- Toolkit Beta v2.1.9.0 beta installer build develoment process started.
+- Toolkit Beta v2.1.9.0 released.
 - Toolkit Beta v2.1.9.0 source code released.
 
 Social media
