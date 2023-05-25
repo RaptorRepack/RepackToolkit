@@ -41,7 +41,7 @@ Upcoming version
 
 Important notes
 ---------------
-- Toolkit Beta v2.1.9.0 beta testing started.
+- Toolkit Beta v2.1.9.0 beta testing complete.
 - Toolkit Beta v2.1.9.0 source code release soon.
 
 Social media
