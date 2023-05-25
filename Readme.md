@@ -5,7 +5,6 @@ Read the Toolkit notes
 
 • This repack Toolkit fully open source software and this Toolkit all data available for my GitHub page only.
 
-
 • This repack Toolkit will get stable updates and stable source code every 2 months.
 
 • This repack Toolkit will get beta updates and beta source code every 1 months.
