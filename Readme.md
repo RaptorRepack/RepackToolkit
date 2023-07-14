@@ -25,7 +25,7 @@ Product information
 
 Latest version
 --------------
-- Very Soon Stable Version 😃
+- Release very soon stable version 😃
 
 Older version
 -------------
