@@ -13,22 +13,23 @@ Read the Toolkit notes
 
 Product information
 -------------------
-- Product Name: Toolkit Beta
+- Product Name: Toolkit
 - Product Language: English-Us
-- Product Versions: v2.1.9.0
+- Product Versions: v2.2.0.0
 - Product OS: Windows 11 22H2 or Higher
 - Product Architecture: 64bit
-- Product Disk Space Size: 40.94 MB
+- Product Disk Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
 Latest version
 --------------
-- Toolkit Beta v2.1.9.0 RELEASED!
+- Very Soon Stable Version 😃
 
 Older version
 -------------
+- v2.1.9.0 Beta ✅
 - v2.0.0.0 Stable ✅
 - v1.2.9.0 Beta ✅
 - v1.2.0.2023 Stable ✅
@@ -37,12 +38,12 @@ Older version
 
 Upcoming version
 ----------------
-- Toolkit Beta v2.1.9.0
+- Toolkit v2.2.0.0
 
 Important notes
 ---------------
-- Toolkit Beta v2.1.9.0 released.
-- Toolkit Beta v2.1.9.0 source code released.
+- Toolkit v2.2.0.0 development process started.
+- Toolkit v2.2.0.0 source code release very soon.
 
 Social media
 ------------
