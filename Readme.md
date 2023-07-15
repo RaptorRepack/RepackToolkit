@@ -1,19 +1,19 @@
-Read the Toolkit notes
-----------------------
+Read the Repack Tools notes
+---------------------------
 
-• This repack Toolkit using only offline game repacking or installer create purpose.
+• This Repack Tools using only offline game repacking or installer create purpose.
 
-• This repack Toolkit fully open source software and this Toolkit all data available for my GitHub page only.
+• This Repack Tools fully open source software and this Repack Tools all data available for my GitHub page only.
 
-• This repack Toolkit will get stable updates and stable source code every 2 months.
+• This Repack Tools will get stable updates and stable source code every 2 months.
 
-• This repack Toolkit will get beta updates and beta source code every 1 months.
+• This Repack Tools will get beta updates and beta source code every 1 months.
 
-• Toolkit related all information Sharing with Twitter page, Please follow now Twitter Page.
+• Repack Tools related all information Sharing with Twitter page, Please follow now Twitter Page.
 
 Product information
 -------------------
-- Product Name: Toolkit
+- Product Name: Repack Tools
 - Product Language: English-Us
 - Product Versions: v2.2.0.0
 - Product OS: Windows 11 22H2 or Higher
@@ -38,12 +38,14 @@ Older version
 
 Upcoming version
 ----------------
-- Toolkit v2.2.0.0
+- Repack Tools v2.2.0.0
 
 Important notes
 ---------------
-- Toolkit v2.2.0.0 development process started.
-- Toolkit v2.2.0.0 source code release very soon.
+- Repack Tools v2.2.0.0 development process started.
+- Repack Tools v2.2.0.0 source code release very soon.
+- Latest update build Repack Tools available for Mega Cloud.
+- Latest update build Repack Tools installer or setup file not release in GitHub release page only available for Mega Cloud download links or Repack Tools changelog.
 
 Social media
 ------------
