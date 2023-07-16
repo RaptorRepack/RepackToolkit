@@ -44,8 +44,16 @@ Important notes
 ---------------
 - Repack Tools v2.2.0.0 development process started.
 - Repack Tools v2.2.0.0 source code release very soon.
-- Latest update build Repack Tools available for Mega Cloud.
-- Latest update build Repack Tools installer or setup file not release in GitHub release page only available for Mega Cloud download links or Repack Tools changelog.
+
+Working status
+--------------
+- Repack Tools UI/UX Design 50% Done!
+- Repack Tools CMD GUI Design 30% Done!
+- Repack Tools Compressor AOW Engine UI Design 80% Done!
+
+Testing status
+--------------
+- Very soon 
 
 Social media
 ------------
