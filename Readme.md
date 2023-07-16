@@ -1,7 +1,7 @@
 Read the Repack Tools notes
 ---------------------------
 
-• This Repack Tools using only offline game repacking or installer create purpose.
+• This Repack Tools using only for offline game repacking or installer create purpose.
 
 • This Repack Tools fully open source software and this Repack Tools all data available for my GitHub page only.
 
