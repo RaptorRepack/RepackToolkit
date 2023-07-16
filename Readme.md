@@ -58,4 +58,4 @@ Testing status
 
 Social media
 ------------
-Twitter page: https://t.ly/wM1r
+- Follow Now http://Twitter.Com/RaptorMusk
