@@ -42,8 +42,8 @@ Upcoming version
 
 Important notes
 ---------------
-- Repack Tools v2.2.0.0 development process started.
-- Repack Tools v2.2.0.0 source code release very soon.
+- Repack Tools v2.2.0.0 Development Process Started.
+- Repack Tools v2.2.0.0 Source Code Release Very Soon.
 
 Working status
 --------------
