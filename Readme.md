@@ -47,13 +47,13 @@ Important notes
 
 Working status
 --------------
-- Repack Tools UI/UX Design 50% Done!
-- Repack Tools CMD GUI Design 30% Done!
-- Repack Tools In-Build Compressor AOW Engine UI Design 80% Done!
+- Repack Tools UI/UX Design 100% Done!
+- Repack Tools CMD GUI Design 90% Done!
+- Repack Tools In-Build Compressor AOW Engine UI Design 100% Done!
 
 Testing status
 --------------
-- Very soon
+- Tomorrow Tester Build Coming..!
 - This Repack Tools Only For Specific Testers To Available.
 
 Social media
