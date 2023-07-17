@@ -55,8 +55,8 @@ Working status
 Testing status
 --------------
 - Tomorrow Tester Build Update Coming. 
-- This Repack Tools Only For Specific Testers To Available.
-- Dear Tester Tomorrow Check Your Toolkit v2.0.0.0 Tester Build Updater.
+- This Repack Tools Update Only For Specific Testers To Available.
+- Dear Tester Tomorrow Check Your Toolkit v2.0.0.0 (t) Tester Build Updater.
 
 Social media
 ------------
