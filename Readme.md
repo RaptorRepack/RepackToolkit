@@ -44,17 +44,20 @@ Important notes
 ---------------
 - Repack Tools v2.2.0.0 Development Process Started.
 - Repack Tools v2.2.0.0 Source Code Release Very Soon.
+- Repack Tools Updater Server Maintenance Underway Please Don't Click On "Check For Update" (Normal Users).
 
 Working status
 --------------
 - Repack Tools UI/UX Design 100% Done!
 - Repack Tools CMD GUI Design 90% Done!
 - Repack Tools In-Build Compressor AOW Engine UI Design 100% Done!
+- Repack Tools Updater Server Maintenance Underway!
 
 Testing status
 --------------
-- Tomorrow Tester Build Coming..!
+- Tomorrow Tester Build Update Coming. 
 - This Repack Tools Only For Specific Testers To Available.
+- Dear Tester Tomorrow Check Your Toolkit v2.0.0.0 Tester Build Updater.
 
 Social media
 ------------
