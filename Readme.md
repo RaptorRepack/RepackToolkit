@@ -49,7 +49,7 @@ Important notes
 
 Testing status
 --------------
-- Tester Build Update Ready, Please Testers Check Your Updater.
+- Tester Build Update Released, Please Testers Check Your Updater For Toolkit v2.0.0.0 (t).
 
 Social media
 ------------
