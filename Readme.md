@@ -25,7 +25,8 @@ Product information
 
 Latest version
 --------------
-- Release very soon stable version 😃
+- Stable Build Update Release Soon...
+- Tester Build Update Released
 
 Older version
 -------------
@@ -42,21 +43,13 @@ Upcoming version
 
 Important notes
 ---------------
-- Repack Tools v2.2.0.0 Development Process Started.
-- Repack Tools v2.2.0.0 Source Code Release Very Soon.
-- Repack Tools Updater Server Maintenance Underway Please Don't Click On "Check For Update" (Normal Users).
-
-Working status
---------------
-- Repack Tools UI/UX Design 100% Done!
-- Repack Tools CMD GUI Design 90% Done!
-- Repack Tools In-Build Compressor AOW Engine UI Design 100% Done!
+- Repack Tools v2.2.0.0 Testing Process Started.
+- Repack Tools v2.2.0.0 Source Code Release Soon.
+- Repack Tools v2.2.0.0 (t) Tester Build Update Released.
 
 Testing status
 --------------
-- Tomorrow Tester Build Update Coming. 
-- This Repack Tools Update Only For Specific Testers To Available.
-- Dear Tester Tomorrow Check Your Toolkit v2.0.0.0 (t) Tester Build Updater.
+- Tester Build Update Ready, Please Testers Check Your Updater.
 
 Social media
 ------------
