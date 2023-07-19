@@ -50,7 +50,8 @@ Important notes
 Testing status
 --------------
 - Tester Build Update Released, Please Testers Check Your Updater For Toolkit v2.0.0.0 (t).
+- Again Rollout Tester Build Update.
 
 Social media
 ------------
-- Follow Now http://Twitter.Com/RaptorMusk
+- Follow Now http://Twitter.Com/RaptorRepack
