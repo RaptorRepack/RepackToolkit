@@ -1,15 +1,15 @@
-Read the Repack Tools notes
----------------------------
+Read the Repack Toolkit notes
+-----------------------------
 
-• This Repack Tools using only for offline game repacking or installer create purpose.
+• This Repack Toolkit using only for offline game repacking or installer create purpose.
 
-• This Repack Tools fully open source software and this Repack Tools all data available for my GitHub page only.
+• This Repack Toolkit fully open source software and this Repack Tools all data available for my GitHub page only.
 
-• This Repack Tools will get stable updates and stable source code every 2 months.
+• This Repack Toolkit will get stable updates and stable source code every 2 months.
 
-• This Repack Tools will get beta updates and beta source code every 1 months.
+• This Repack Toolkit will get beta updates and beta source code every 1 months.
 
-• Repack Tools related all information Sharing with Twitter page, Please follow now Twitter Page.
+• Repack Toolkit related all information Sharing with Twitter page, Twitter page coming soon.
 
 Product information
 -------------------
@@ -25,8 +25,7 @@ Product information
 
 Latest version
 --------------
-- Stable Build Update Release Soon...
-- Tester Build Update Released
+- Stable Release Soon..
 
 Older version
 -------------
@@ -39,19 +38,14 @@ Older version
 
 Upcoming version
 ----------------
-- Repack Tools v2.2.0.0
+- Repack Toolkit v2.2.0.0
 
 Important notes
 ---------------
-- Repack Tools v2.2.0.0 Testing Process Started.
-- Repack Tools v2.2.0.0 Source Code Release Soon.
-- Repack Tools v2.2.0.0 (t) Tester Build Update Released.
-
-Testing status
---------------
-- Tester Build Update Released, Please Testers Check Your Updater For Toolkit v2.0.0.0 (t).
-- Again Rollout Tester Build Update.
+- Repack Toolkit v2.2.0.0 Testing Process Started.
+- Repack Toolkit v2.2.0.0 Source Code Release Soon.
+- Repack Toolkit OS Requried by "Windows 11 Pro" Only.
 
 Social media
 ------------
-- Follow Now http://Twitter.Com/RaptorRepack
+- Twitter Page Coming Soon...
