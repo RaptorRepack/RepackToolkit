@@ -42,7 +42,7 @@ Upcoming version
 
 Important notes
 ---------------
-- Repack Toolkit v2.2.0.0 Testing Process Started.
+- Repack Toolkit v2.2.0.0 Stable Release Soon.
 - Repack Toolkit v2.2.0.0 Source Code Release Soon.
 - Repack Toolkit OS Requried by "Windows 11 Pro" Only.
 
