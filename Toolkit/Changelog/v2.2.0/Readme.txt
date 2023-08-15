@@ -20,4 +20,4 @@ Compressor Tools v2.2.0.0 Changelog
 
 Important Note
 --------------
-• Highly recommended for Windows 11 or Windows 10 (Professional Edition) to use now this Repack Toolkit
+• Highly recommended for Windows 11 or Windows 10 (Professional Edition) to use now this Repack Toolkit.
