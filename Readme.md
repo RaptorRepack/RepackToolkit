@@ -17,7 +17,7 @@ Product information
 - Product Language: English-Us
 - Product Versions: v2.2.0.0
 - Product OS: Windows 11 Pro 22H2 or Higher
-- Product Architecture: 64bit/32bit
+- Product Architecture: 64bit
 - Product Disk Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
