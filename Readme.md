@@ -17,7 +17,7 @@ Product information
 - Product Language: English-Us
 - Product Versions: v2.2.0.0
 - Product OS: Windows 11 or Windows 10
-- Product OS Edition: Professional Edition Only
+- Product OS Edition: Pro Edition Only 
 - Product OS Build Version: 22H2 or Higher
 - Product Architecture: 64bit/32bit
 - Product Disk Space Size: 1x.xx MB
