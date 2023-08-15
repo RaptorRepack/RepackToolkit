@@ -17,3 +17,7 @@ Compressor Tools v2.2.0.0 Changelog
 • Removed: AOW UI v2.1.9.0 64bit Patch or DLC Pack.
 • Added: New Compressor Tools Executable File Patch Updated.
 • Improved: Compressor Tools System Stability Performance.
+
+Important Note
+--------------
+• Highly recommended for Windows 11 or Windows 10 (Professional Edition) to use now this Repack Toolkit
