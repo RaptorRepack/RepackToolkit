@@ -19,7 +19,7 @@ Product information
 - Product OS: Windows 11 22H2 or Higher
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
-- Product Disk Space Size: 1x.xx MB
+- Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
