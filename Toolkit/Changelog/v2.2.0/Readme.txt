@@ -1,4 +1,5 @@
-[Repack Toolkit v2.2.0.0 Changelog]
+Repack Toolkit v2.2.0.0 Changelog
+---------------------------------
 
 • Added: New Adobe Photoshop (.psd) Files.
 • Fixed: Repack Toolit Music On/Off Button Bugs.
@@ -8,7 +9,8 @@
 • Renamed: Compact Toolkit Mode To Lite Mode.
 • Improved: Repack Toolkit System Stability Performance.
 
-[Compressor v2.2.0.0 Changelog]
+Compressor v2.2.0.0 Changelog
+-----------------------------
 
 • Added: New AOW UI Engine v2.2.0.0 Stable 64bit or 32bit. 
 • Added: New AOW UI Engine Operating System Detect Patch.
