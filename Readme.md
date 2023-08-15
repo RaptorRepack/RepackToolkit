@@ -44,7 +44,8 @@ Important notes
 ---------------
 - Repack Toolkit v2.2.0.0 Stable Release Soon.
 - Repack Toolkit v2.2.0.0 Source Code Release Soon.
-- Repack Toolkit OS Requried by "Windows 11 Pro" Only.
+
+- Highly recommended for Windows 11 Pro Edition to use this Repack Toolkit.
 
 Social media
 ------------
