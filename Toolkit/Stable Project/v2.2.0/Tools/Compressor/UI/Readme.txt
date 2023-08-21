@@ -1,0 +1,1 @@
+Don't run this "AOW.exe" file becuase this file not normally run and this executable file run with only compressor.
