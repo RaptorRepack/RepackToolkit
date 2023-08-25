@@ -9,7 +9,7 @@ Read the Repack Toolkit notes
 
 • This Repack Toolkit will get beta updates and beta source code every 1 months.
 
-• Repack Toolkit related all information Sharing with Twitter page, Please follow now Twitter Page.
+• Repack Toolkit related all information sharing with Twitter page, Please follow my Twitter Page.
 
 Product information
 -------------------
@@ -44,9 +44,8 @@ Upcoming version
 
 Important notes
 ---------------
-- Repack Toolkit v2.2.0.0 Stable Release Soon.
+- Repack Toolkit v2.2.0.0 Stable Release In 27th August.
 - Repack Toolkit v2.2.0.0 Source Code Released.
-
 - Highly recommended for Windows 11 Pro Edition to use this Repack Toolkit.
 
 Social media
