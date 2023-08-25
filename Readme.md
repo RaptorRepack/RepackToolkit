@@ -50,5 +50,4 @@ Important notes
 
 Social media
 ------------
-- Twitter Page
-http://bit.ly/twitRR
+- Twitter Page: https://s.id/1SYd8
