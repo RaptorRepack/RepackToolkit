@@ -9,7 +9,7 @@ Read the Repack Toolkit notes
 
 • This Repack Toolkit will get beta updates and beta source code every 1 months.
 
-• Repack Toolkit related all information Sharing with Twitter page, Twitter page coming 25th august.
+• Repack Toolkit related all information Sharing with Twitter page, Please follow now Twitter Page.
 
 Product information
 -------------------
@@ -50,4 +50,5 @@ Important notes
 
 Social media
 ------------
-- Twitter Page Coming 25th August.
+- Twitter Page
+http://bit.ly/twitRR
