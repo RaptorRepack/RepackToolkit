@@ -26,8 +26,7 @@ Product information
 
 Latest version
 --------------
-- Stable Release Soon..
-- Repack Toolkit v2.2.0.0 Source Code RELEASED.
+- Stable Release In 27th August
 
 Older version
 -------------
