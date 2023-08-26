@@ -15,8 +15,10 @@ Product information
 -------------------
 - Product Name: Repack Tools
 - Product Language: English-Us
-- Product Versions: v2.2.0.0
+- Product Version: v2.2.0.0
+- Product Installer Version: v2.1.9.999
 - Product OS Support: Windows 11
+- Product OS Build Version: 22H2 or Higher
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
 - Product Install Space Size: 1x.xx MB
@@ -45,6 +47,9 @@ Important notes
 ---------------
 - Repack Toolkit v2.2.0.0 Stable Release In 27th August.
 - Repack Toolkit v2.2.0.0 Source Code Released.
+
+Recommend notes
+---------------
 - Highly recommended for Windows 11 Pro Edition to use this Repack Toolkit.
 
 Social media
