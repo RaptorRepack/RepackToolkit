@@ -16,7 +16,6 @@ Product information
 - Product Name: Repack Toolit
 - Product Language: English-Us
 - Product Version: v2.2.0.0
-- Product Installer Version: v2.1.9.0-RR
 - Product OS Support: Windows 11
 - Product OS Build Version: 22H2 or Higher
 - Product OS Edition: Pro Edition
