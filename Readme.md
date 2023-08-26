@@ -3,13 +3,13 @@ Read the Repack Toolkit notes
 
 • This Repack Toolkit using only for offline game repacking or installer create purpose.
 
-• This Repack Toolkit fully open source software and this Repack Tools all data available for my GitHub page only.
+• This Repack Toolkit fully open source software and this Repack Toolkit all data available for my GitHub page only.
 
-• This Repack Toolkit will get stable updates and stable source code every 2 months.
+• This Repack Toolkit will get stable updates and stable source code every 2 months later.
 
-• This Repack Toolkit will get beta updates and beta source code every 1 months.
+• This Repack Toolkit will get beta updates and beta source code every 1 months later.
 
-• Repack Toolkit related all information sharing with Twitter page, Please follow my Twitter Page.
+• Repack Toolkit related kind all informations sharing with twitter page, Please follow my twitter page.
 
 Product information
 -------------------
