@@ -49,7 +49,7 @@ Important notes
 
 Recommend notes
 ---------------
-- Highly recommended for Windows 11 Pro Edition to use this Repack Toolkit.
+- Highly recommended for (Windows 11 22H2) Pro Edition to use this Repack Toolkit.
 
 Social media
 ------------
