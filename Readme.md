@@ -27,7 +27,7 @@ Product information
 
 Latest version
 --------------
-- Stable Release In 27th August
+- Stable Release In Tomorrow 8:00pm (6:00 GMT)
 
 Older version
 -------------
@@ -44,7 +44,7 @@ Upcoming version
 
 Important notes
 ---------------
-- Repack Toolkit v2.2.0.0 Stable Release In 27th August.
+- Repack Toolkit v2.2.0.0 Stable Release In Tomorrow 8:00pm (6:00 GMT)
 - Repack Toolkit v2.2.0.0 Source Code Released.
 
 Recommend notes
