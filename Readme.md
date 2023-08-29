@@ -27,7 +27,7 @@ Product information
 
 Latest version
 --------------
-- Stable Release In Tomorrow 8:00pm (6:00 GMT)
+- Repack Toolkit v2.2.0.0 RELEASED✅
 
 Older version
 -------------
@@ -40,11 +40,11 @@ Older version
 
 Upcoming version
 ----------------
-- Repack Toolkit v2.2.0.0
+- Repack Toolkit 2.2.9.0 Beta Coming Soon.
 
 Important notes
 ---------------
-- Repack Toolkit v2.2.0.0 Stable Release In Tomorrow 8:00pm (6:00 GMT)
+- Repack Toolkit v2.2.0.0 Stable Released.
 - Repack Toolkit v2.2.0.0 Source Code Released.
 
 Recommend notes
