@@ -50,7 +50,7 @@ Important notes
 Recommend notes
 ---------------
 - Highly recommended for (Windows 11 22H2) Pro Edition to use this Repack Toolkit.
-- Repack Toolkit Install For "Run As Administrator" Highly Required.
+- Highly recommended for setup install  to "Run as administrator" click now, Then finish the Repack Toolkit installation setup.
 
 Social media
 ------------
