@@ -40,12 +40,12 @@ Older version
 
 Upcoming version
 ----------------
-- Repack Toolkit 2.2.9.0 Beta Coming Soon.
+- v2.2.9.0 Beta Release In 26 September.
 
 Important notes
 ---------------
 - Repack Toolkit v2.2.9.0 Beta Program Development Process Started.
-- Repack Toolkit v2.2.9.0 Beta Installer + Source Code Release Date 26 September 2023.
+- Repack Toolkit v2.2.9.0 Beta Installer And Source Code Release In 26 September 2023.
 
 Recommend notes
 ---------------
