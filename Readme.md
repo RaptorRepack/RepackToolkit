@@ -17,7 +17,7 @@ Product information
 - Product Language: English-Us
 - Product Version: v2.2.0.0
 - Product OS Support: Windows 11
-- Product OS Build Version Support: 22H2
+- Product OS Build Version: 22H2 or Higher
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
 - Product Install Space Size: 75.89 MB
@@ -44,8 +44,8 @@ Upcoming version
 
 Important notes
 ---------------
-- Repack Toolkit v2.2.0.0 Stable Released.
-- Repack Toolkit v2.2.0.0 Source Code Released.
+- Repack Toolkit v2.2.9.0 Beta Program Development Process Started.
+- Repack Toolkit v2.2.9.0 Beta Installer + Source Code Release Date 26 September 2023.
 
 Recommend notes
 ---------------
