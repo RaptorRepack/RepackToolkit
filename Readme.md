@@ -1,5 +1,5 @@
-📝 Read the Repack Toolkit notes
---------------------------------
+📝 Read the main notes
+----------------------
 
 • This Repack Toolkit using only for offline game repacking or installer create purpose.
 
