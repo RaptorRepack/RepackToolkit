@@ -15,10 +15,10 @@
 ----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
-- Product Build Status: Beta
 - Product Version: v2.2.9.0
+- Product Build Status: Beta
 - Product OS Support: Windows 11
-- Product OS Build Version: 22H2 or Higher
+- Product OS Build Version: 22H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
 - Product Install Space Size: 1x.xx MB
