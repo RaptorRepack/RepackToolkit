@@ -11,7 +11,7 @@
 
 • Repack Toolkit related kind of all informations sharing with twitter, Please follow the twitter page.
 
-🧾 Product information
+📋 Product information
 ----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
