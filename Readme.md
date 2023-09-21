@@ -28,7 +28,7 @@
 
 🌟 Latest version
 -----------------
-🔔 Very Soon...
+⏳ Very Soon...
 
 ⛔ Older version
 ----------------
