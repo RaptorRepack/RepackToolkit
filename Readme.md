@@ -30,7 +30,7 @@
 -----------------
 🔔 Very Soon...
 
-⚙️ Older version
+⛔ Older version
 ----------------
 🚫 v2.2.0.0 Stable
 
