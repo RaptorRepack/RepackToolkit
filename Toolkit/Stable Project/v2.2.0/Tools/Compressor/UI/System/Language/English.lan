@@ -1,8 +1,0 @@
-[LangOptions]
-Language=English-Us;
-LanguageStyle=System;
-FontSize=10;
-FontStyle=Normal;
-FontName=Arial;
-Version=2.2.0.0;
-API=Stable;
