@@ -28,7 +28,7 @@
 
 🌟 Latest version
 -----------------
-⏳ v2.2.9.0 Beta Source Code Release Today
+⏳ v2.2.9.0 Beta Source Code Released.
 
 ⛔ Older version
 ----------------
@@ -52,7 +52,7 @@
 
 📝 Important notes
 ------------------
-🔴 Repack Toolkit v2.2.9.0 Beta Source Code Is Ready And Uploading Procces Started.
+🔴 Repack Toolkit v2.2.9.0 Beta Source Code Released.
 
 🔴 Repack Toolkit v2.2.9.0 Beta Installer Release In 28 September 2023.
 
