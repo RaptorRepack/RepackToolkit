@@ -28,7 +28,7 @@
 
 🌟 Latest version
 -----------------
-⏳ Very Soon...
+⏳ v2.2.9.0 Beta Source Code Release Today
 
 ⛔ Older version
 ----------------
@@ -52,9 +52,9 @@
 
 📝 Important notes
 ------------------
-🔴 Repack Toolkit v2.2.9.0 Beta Program Development Process Started.
+🔴 Repack Toolkit v2.2.9.0 Beta Source Code Is Ready And Uploading Procces Started.
 
-🔴 Repack Toolkit v2.2.9.0 Beta Installer And Source Code Release In 28 September 2023.
+🔴 Repack Toolkit v2.2.9.0 Beta Installer Release In 28 September 2023.
 
 🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
 
