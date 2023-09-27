@@ -21,14 +21,14 @@
 - Product OS Build Version: 22H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
-- Product Install Space Size: 1x.xx MB
+- Product Install Space Size: 75.88 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
 🌟 Latest version
 -----------------
-⏳ v2.2.9.0 Beta Source Code Released.
+⏳ v2.2.9.0 Beta Released.
 
 ⛔ Older version
 ----------------
@@ -48,13 +48,13 @@
 
 📢 Upcoming version
 -------------------
-⏳ v2.2.9.0 Beta
+⏳ v3.0.0.0 Stable Coming Soon...
 
 📝 Important notes
 ------------------
 🔴 Repack Toolkit v2.2.9.0 Beta Source Code Released.
 
-🔴 Repack Toolkit v2.2.9.0 Beta Installer Release In 28 September 2023.
+🔴 Repack Toolkit v2.2.9.0 Beta Installer Released.
 
 🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
 
