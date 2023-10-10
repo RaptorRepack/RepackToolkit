@@ -12,7 +12,7 @@
 • Repack Toolkit related kind of all informations sharing with twitter, Please follow the [Twitter](https://www.twitter.com/raptorrepack)
  page.
 
-📋 Product Informations
+📑 Product Informations
 -----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
