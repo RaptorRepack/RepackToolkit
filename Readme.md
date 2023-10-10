@@ -48,7 +48,7 @@
 
 📢 Upcoming version
 -------------------
-⏳ v3.0.0.0 Stable Coming Soon...
+⏳ (No Any Informations)
 
 📝 Important notes
 ------------------
