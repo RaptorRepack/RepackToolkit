@@ -1,4 +1,4 @@
-📝 Read The Notes
+📑 Read The Notes
 -----------------
 
 • This Repack Toolkit using only for offline game repacking or installer create purpose.
@@ -51,7 +51,7 @@
 -------------------
 ⏳ [v3.0.0.0](https://GitHub.Com/Raptorrepack/RepackToolkit) Stable Coming Soon...
 
-📝 Important Notes
+📑 Important Notes
 ------------------
 🔴 Repack Toolkit v2.2.9.0 Beta [Source Code](https://github.com/RaptorRepack/RepackToolkit/tree/Toolkit/Beta%20Project/v2.2.9) Released.
 
@@ -66,4 +66,4 @@
 
 🌐 Social Media
 ---------------
-🐦 Follow My [Twitter](https://www.twitter.com/raptorrepack) Page
+👉 Follow My [Twitter](https://www.twitter.com/raptorrepack) Page
