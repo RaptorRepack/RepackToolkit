@@ -65,4 +65,4 @@
 
 🌐 Social media
 ---------------
-🔗 [Follow My Twitter Page](https://www.twitter.com/raptorrepack)
+🐦 [Follow My Twitter Page](https://www.twitter.com/raptorrepack)
