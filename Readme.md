@@ -9,7 +9,7 @@
 
 • This Repack Toolkit will get beta updates and beta source code every 1 months later.
 
-• Repack Toolkit related kind of all informations sharing with twitter, Please follow the [twitter](https://www.twitter.com/raptorrepack)
+• Repack Toolkit related kind of all informations sharing with twitter, Please follow the [Twitter](https://www.twitter.com/raptorrepack)
  page.
 
 📋 Product information
