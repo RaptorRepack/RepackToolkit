@@ -29,7 +29,7 @@
 
 ⬇️ Download Now 
 ---------------
-➡️ [Repack Toolkit v2.2.9.0 Beta 64bit](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9)
+➡️ [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9)
 
 ⛔ Older Versions
 -----------------
