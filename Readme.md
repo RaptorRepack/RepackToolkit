@@ -1,5 +1,5 @@
-📝 Read the main notes
-----------------------
+📝 Read The Notes
+-----------------
 
 • This Repack Toolkit using only for offline game repacking or installer create purpose.
 
@@ -12,8 +12,8 @@
 • Repack Toolkit related kind of all informations sharing with twitter, Please follow the [Twitter](https://www.twitter.com/raptorrepack)
  page.
 
-📋 Product information
-----------------------
+📋 Product Informations
+-----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
 - Product Version: v2.2.9.0
@@ -31,27 +31,27 @@
 ---------------
 ➡️ [Repack Toolkit v2.2.9.0 Beta 64bit](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9)
 
-⛔ Older versions
+⛔ Older Versions
 -----------------
 🟢 [v2.2.0.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0) Stable (Best Stable Version)
 
-⛔ [v2.1.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9) Beta
+🚫 [v2.1.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9) Beta
 
-⛔ [v2.0.0.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.0.0) Stable
+🚫 [v2.0.0.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.0.0) Stable
 
-⛔ [v1.2.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.9) Beta
+🚫 [v1.2.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.9) Beta
 
-⛔ [v1.2.0.2023](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.0) Stable
+🚫 [v1.2.0.2023](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.0) Stable
 
-⛔ [v1.1.0.2022](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.1.0) Beta
+🚫 [v1.1.0.2022](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.1.0) Beta
 
-⛔ [v1.0.0.2022](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0) Beta
+🚫 [v1.0.0.2022](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0) Beta
 
-📢 Upcoming versions
---------------------
+📢 Upcoming Updates 
+-------------------
 ⏳ [v3.0.0.0](https://GitHub.Com/Raptorrepack/RepackToolkit) Stable Coming Soon...
 
-📝 Important notes
+📝 Important Notes
 ------------------
 🔴 Repack Toolkit v2.2.9.0 Beta [Source Code](https://github.com/RaptorRepack/RepackToolkit/tree/Toolkit/Beta%20Project/v2.2.9) Released.
 
@@ -64,6 +64,6 @@
 🔴 Best Stable Build Repack Toolkit Version Is [v2.2.0.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0)
  Stable.
 
-🌐 Social media
+🌐 Social Media
 ---------------
 🐦 Follow My [Twitter](https://www.twitter.com/raptorrepack) Page
