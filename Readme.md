@@ -9,8 +9,8 @@
 
 • This Repack Toolkit will get beta updates and beta source code every 1 months later.
 
-• Repack Toolkit related kind of all informations sharing with twitter, [Please follow the twitter page.](https://www.twitter.com/raptorrepack)
-
+• Repack Toolkit related kind of all informations sharing with twitter, Please follow the [twitter](https://www.twitter.com/raptorrepack)
+ page.
 📋 Product information
 ----------------------
 - Product Name: Repack Toolkit
@@ -52,9 +52,9 @@
 
 📝 Important notes
 ------------------
-🔴 [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/tree/Toolkit/Beta%20Project/v2.2.9) Source Code Released.
+🔴 Repack Toolkit [v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/tree/Toolkit/Beta%20Project/v2.2.9) Source Code Released.
 
-🔴 [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9) Installer Released.
+🔴 Repack Toolkit [v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9) Installer Released.
 
 🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
 
