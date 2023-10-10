@@ -9,7 +9,7 @@
 
 • This Repack Toolkit will get beta updates and beta source code every 1 months later.
 
-• Repack Toolkit related kind of all informations sharing with twitter, Please follow the twitter page.
+• Repack Toolkit related kind of all informations sharing with twitter, [Please follow the twitter page.](https://www.twitter.com/raptorrepack)
 
 📋 Product information
 ----------------------
@@ -28,23 +28,23 @@
 
 🌟 Latest version
 -----------------
-⏳ v2.2.9.0 Beta Released.
+⏳ [v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9) Released.
 
 ⛔ Older version
 ----------------
-🚫 [v2.2.0.0 Stable](https://s.id/RTv2200)
+🟢 [v2.2.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0) Best Stable Version
 
-🚫 v2.1.9.0 Beta
+⛔ [v2.1.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9)
 
-🚫 v2.0.0.0 Stable
+⛔ [v2.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.0.0)
 
-🚫 v1.2.9.0 Beta
+⛔ [v1.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.9)
 
-🚫 v1.2.0.2023 Stable
+⛔ [v1.2.0.2023 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.0)
 
-🚫 v1.1.0.2022 Beta
+⛔ [v1.1.0.2022 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.1.0)
 
-🚫 v1.0.0.2022 Beta
+⛔ [v1.0.0.2022 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0)
 
 📢 Upcoming version
 -------------------
@@ -52,17 +52,17 @@
 
 📝 Important notes
 ------------------
-🔴 Repack Toolkit v2.2.9.0 Beta Source Code Released.
+🔴 [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/tree/Toolkit/Beta%20Project/v2.2.9) Source Code Released.
 
-🔴 Repack Toolkit v2.2.9.0 Beta Installer Released.
+🔴 [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9) Installer Released.
 
 🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
 
 🔴 Highly recommended for setup file install to Run as administrator click now, Then finish the Repack Toolkit installation setup file.
 
-🔴 Best Stable Build Repack Toolkit Version Is v2.2.0.0 Stable.
+🔴 Best Stable Build Repack Toolkit Version Is [v2.2.0.0 Stable.](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0)
 
 
 🌐 Social media
 ---------------
-🔗 Twitter Page: https://s.id/TwitterRR
+🔗 [Follow My Twitter Page](https://www.twitter.com/raptorrepack)
