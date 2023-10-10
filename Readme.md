@@ -32,7 +32,7 @@
 
 ⛔ Older version
 ----------------
-🟢 [v2.2.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0) Best Stable Version
+🟢 [v2.2.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0) (Best Stable Version)
 
 ⛔ [v2.1.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9)
 
