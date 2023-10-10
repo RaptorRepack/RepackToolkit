@@ -48,7 +48,7 @@
 
 📢 Upcoming version
 -------------------
-⏳ [No Any Informations]()
+⏳ [No Any Informations](https://GitHub.Com/Raptorrepack/RepackToolkit)
 
 📝 Important notes
 ------------------
