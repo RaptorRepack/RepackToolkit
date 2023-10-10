@@ -32,7 +32,7 @@
 
 ⛔ Older version
 ----------------
-🚫 v2.2.0.0 Stable (Best Build)
+🚫 [v2.2.0.0 Stable](https://s.id/RTv2200)
 
 🚫 v2.1.9.0 Beta
 
