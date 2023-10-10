@@ -49,7 +49,7 @@
 
 📢 Upcoming version
 -------------------
-⏳ [No Any Informations](https://GitHub.Com/Raptorrepack/RepackToolkit)
+⏳ [v3.0.0.0](https://GitHub.Com/Raptorrepack/RepackToolkit) Stable Coming Soon...
 
 📝 Important notes
 ------------------
