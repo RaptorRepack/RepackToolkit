@@ -32,7 +32,7 @@
 
 ⛔ Older version
 ----------------
-🚫 v2.2.0.0 Stable
+🚫 v2.2.0.0 Stable (Best Build)
 
 🚫 v2.1.9.0 Beta
 
@@ -59,6 +59,9 @@
 🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
 
 🔴 Highly recommended for setup file install to Run as administrator click now, Then finish the Repack Toolkit installation setup file.
+
+🔴 Best Stable Build Repack Toolkit Version Is v2.2.0.0 Stable.
+
 
 🌐 Social media
 ---------------
