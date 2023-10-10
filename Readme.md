@@ -17,7 +17,7 @@
 - Product Name: Repack Toolkit
 - Product Language: English-Us
 - Product Version: v2.2.9.0
-- Product Build Status: Beta
+- Product Build Stage: Beta
 - Product OS Support: Windows 11
 - Product OS Build Version: 22H2
 - Product OS Edition: Pro Edition
@@ -27,12 +27,12 @@
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
-🌟 Latest version
------------------
-⏳ [v2.2.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9) Beta RELEASED
+⬇️ Download Now 
+---------------
+➡️ [Repack Toolkit v2.2.9.0 64bit Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9)
 
-⛔ Older version
-----------------
+⛔ Older versions
+-----------------
 🟢 [v2.2.0.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0) Stable (Best Stable Version)
 
 ⛔ [v2.1.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9) Beta
