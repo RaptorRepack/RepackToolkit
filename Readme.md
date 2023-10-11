@@ -35,19 +35,19 @@
 
 ⛔ Older Versions
 -----------------
-🚫 [v2.2.0.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0) Stable (Best Stable Version)
+🚫 v2.2.0.0 Stable [Changelog](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0)
 
-🚫 [v2.1.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9) Beta
+🚫 v2.1.9.0 Beta [Changelog](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9)
 
-🚫 [v2.0.0.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.0.0) Stable
+🚫 v2.0.0.0 Stable [Changelog](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.0.0)
 
-🚫 [v1.2.9.0](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.9) Beta
+🚫 v1.2.9.0 Beta [Changelog](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.9)
 
-🚫 [v1.2.0.2023](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.0) Stable
+🚫 v1.2.0.2023 Stable [Changelog](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.0)
 
-🚫 [v1.1.0.2022](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.1.0) Beta
+🚫 v1.1.0.2022 Beta [Changelog](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.1.0)
 
-🚫 [v1.0.0.2022](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0) Beta
+🚫 v1.0.0.2022 Beta [Changelog](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0)
 
 📢 Upcoming Updates 
 -------------------
