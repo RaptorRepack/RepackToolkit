@@ -18,6 +18,7 @@
 - Product Language: English-Us
 - Product Version: v2.2.9.0
 - Product Build Stage: Beta
+- Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9)
 - Product OS Support: Windows 11
 - Product OS Build Version: 22H2
 - Product OS Edition: Pro Edition
