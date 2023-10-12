@@ -52,7 +52,7 @@
 
 📢 Upcoming Updates 
 -------------------
-⏳ [v3.0.0.0](https://GitHub.Com/Raptorrepack/RepackToolkit) Stable Coming Soon...
+⏳ v3.0.0.0 Stable [Coming Soon...](https://GitHub.Com/Raptorrepack/RepackToolkit)
 
 📝 Important Notes
 ------------------
@@ -60,12 +60,13 @@
 
 🔴 Repack Toolkit v2.2.9.0 Beta Installer Released.
 
+🔴 Best Stable Build Repack Toolkit Version Is v2.2.0.0
+ Stable.
+
 🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
 
 🔴 Highly recommended for setup file install to Run as administrator click now, Then finish the Repack Toolkit installation setup file.
 
-🔴 Best Stable Build Repack Toolkit Version Is v2.2.0.0
- Stable.
 
 🌐 Social Media
 ---------------
