@@ -36,6 +36,8 @@
 
 ⛔ Older Versions
 -----------------
+🚫 v2.2.9.0 Beta [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9)
+
 🚫 v2.2.0.0 Stable [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0)
 
 🚫 v2.1.9.0 Beta [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9)
