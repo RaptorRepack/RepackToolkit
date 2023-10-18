@@ -30,9 +30,7 @@
 
 ⬇️ Download Now 
 ---------------
-👉 [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/download/v2.2.9/RepackToolkit64bit_v2.2.9.0.Beta.exe)
-
-👉 [Repack Toolkit v2.2.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/download/v2.2.0/RepackToolkit64bit_v2.2.0.0.exe)
+👉 This Item Coming In 29 October 2023.
 
 📥 Older Versions
 -----------------
