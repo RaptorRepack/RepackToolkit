@@ -64,6 +64,10 @@
 
 🔴 Repack Toolkit Main Script Files Redesigning Process 20% Done!
 
+🔴 Compressor Main Script Files Redesigning Process 30% Done!
+
+🔴 More Status Coming...
+
 
 📝 Important Notes
 ------------------
