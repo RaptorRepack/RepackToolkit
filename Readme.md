@@ -74,7 +74,7 @@
 
 🔴 We Release In 20 October Repack Toolkit v3.0.0.T Update, Please Dear Tester Check Your Repack Toolkit Check For Update.
 
-🔴 Highly recommended for setup file install to Run as administrator click now, Then finish the Repack Toolkit installation setup file.
+🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
 
 🌐 Social Media
