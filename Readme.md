@@ -12,18 +12,18 @@
 - Repack Toolkit related kind of all informations sharing with twitter, Please follow the [Twitter](https://www.twitter.com/raptorrepack)
  page.
 
-📑 Product Informations
+🧾 Product Informations
 -----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
-- Product Version: v2.2.9.0
-- Product Build Stage: Beta
-- Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9)
+- Product Version: v3.0.0.0
+- Product Build Stage: Stable
+- Product Changelog: [Coming Soon](https://github.com/raptorrepack/RepackToolkit)
 - Product OS Support: Windows 11
-- Product OS Build Version: 22H2
+- Product OS Build Version: 22H3
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
-- Product Install Space Size: 75.88 MB
+- Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
@@ -52,18 +52,13 @@
 
 📢 Upcoming Updates 
 -------------------
-⏳ v3.0.0.0 Stable [Coming Soon...](https://GitHub.Com/Raptorrepack/RepackToolkit)
+⏳ Repack Toolkit v3.0.0.0 Stable Coming In 29 October 2023.
 
 📝 Important Notes
 ------------------
-🔴 Repack Toolkit v2.2.9.0 Beta [Source Code](https://github.com/RaptorRepack/RepackToolkit/tree/Toolkit/Beta%20Project/v2.2.9) Released.
+🔴 Repack Toolkit v3.0.0.0 Stable Development Process Started.
 
-🔴 Repack Toolkit v2.2.9.0 Beta Installer Released.
-
-🔴 Best Stable Build Repack Toolkit Version Is v2.2.0.0
- Stable.
-
-🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
+🔴 Highly recommended for Windows 11 22H3 Pro Edition to use this Repack Toolkit.
 
 🔴 Highly recommended for setup file install to Run as administrator click now, Then finish the Repack Toolkit installation setup file.
 
