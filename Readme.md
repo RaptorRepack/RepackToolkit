@@ -68,7 +68,7 @@
 
 🔴 Compressor Main Script Files Redesigning Process 45% Done!
 
-🔴 Repack Toolkit v3.0.0.T (Tester Version) Development Process 95% Done!
+🔴 Repack Toolkit v3.0.0.T (Tester Version) Update Development Process 95% Done!
 
 
 📝 Important Notes
