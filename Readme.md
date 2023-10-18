@@ -75,7 +75,7 @@
 ------------------
 🔴 Repack Toolkit v3.0.0.0 Stable Development Process Started.
 
-🔴 Please Dear Tester Check Your Repack Toolkit Check For Update In 20 October.
+🔴 Please Dear Tester Check Your Repack Toolkit v2.2.0.T Check For Update In 20 October.
 
 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
