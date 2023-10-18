@@ -1,16 +1,16 @@
 📝 Read The Notes
 -----------------
 
-- This Repack Toolkit using only for offline game repacking or installer create purpose.
+- This Repack Toolkit Using Only For Offline Game Repacking or Installer Create Purpose.
 
-- This Repack Toolkit fully open source software and this Repack Toolkit all data available for my GitHub page only.
+- This Repack Toolkit Fully Open Source Software And This Repack Toolkit All Data Available For My GitHub Page Only.
 
-- This Repack Toolkit will get stable updates and stable source code every 2 months later.
+- This Repack Toolkit Will Get Stable Updates And Stable Source Code Every 2 Months Later.
 
-- This Repack Toolkit will get beta updates and beta source code every 1 months later.
+- This Repack Toolkit Will Get Beta Updates And Beta Source Code Every 1 Months Later.
 
-- Repack Toolkit related kind of all informations sharing with twitter, Please follow the [Twitter](https://www.twitter.com/raptorrepack)
- page.
+- Repack Toolkit Related Kind Of All Informations Sharing With Twitter, Please Follow The [Twitter](https://www.twitter.com/raptorrepack)
+ Page.
 
 🧾 Product Informations
 -----------------------
