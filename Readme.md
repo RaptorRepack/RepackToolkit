@@ -20,7 +20,7 @@
 - Product Build Stage: Stable
 - Product Changelog: [Coming Soon](https://github.com/raptorrepack/RepackToolkit)
 - Product OS Support: Windows 11
-- Product OS Build Version: 22H3
+- Product OS Build Version: 23H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
 - Product Install Space Size: 1x.xx MB
@@ -58,7 +58,7 @@
 ------------------
 🔴 Repack Toolkit v3.0.0.0 Stable Development Process Started.
 
-🔴 Highly recommended for Windows 11 22H3 Pro Edition to use this Repack Toolkit.
+🔴 Highly recommended for Windows 11 23H2 Pro Edition to use this Repack Toolkit.
 
 🔴 Highly recommended for setup file install to Run as administrator click now, Then finish the Repack Toolkit installation setup file.
 
