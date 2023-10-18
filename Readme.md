@@ -66,12 +66,13 @@
 
 🔴 Compressor Main Script Files Redesigning Process 45% Done!
 
-🔴 More Status Coming...
 
 
 📝 Important Notes
 ------------------
 🔴 Repack Toolkit v3.0.0.0 Stable Development Process Started.
+
+🔴 We Release In 20 October Repack Toolkit v3.0.0.T Update, Please Dear Tester Check Your Repack Toolkit Check For Update.
 
 🔴 Highly recommended for setup file install to Run as administrator click now, Then finish the Repack Toolkit installation setup file.
 
