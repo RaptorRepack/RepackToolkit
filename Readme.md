@@ -58,13 +58,13 @@
 
 🛠️ Development Status
 ---------------------
-🔴 Repack Toolkit UI Redesigning Process 95% Done!
+🔴 Repack Toolkit UI Redesigning Process 98% Done!
 
-🔴 AOW UI System Update Patch Files Building Process 90% Done!
+🔴 AOW UI System Update Patch Files Building Process 95% Done!
 
-🔴 Repack Toolkit Main Script Files Redesigning Process 90% Done!
+🔴 Repack Toolkit Main Script Files Redesigning Process 98% Done!
 
-🔴 Compressor Main Script Files Redesigning Process 90% Done!
+🔴 Compressor Main Script Files Redesigning Process 94% Done!
 
 
 📝 Important Notes
