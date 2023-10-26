@@ -54,26 +54,14 @@
 -------------------
 ⏳ Repack Toolkit v3.0.0.0 Stable Coming In 29 October 2023.
 
-⏳ We Released On a New Tester Version Repack Toolkit v3.1.0.T Update.
-
 🛠️ Development Status
 ---------------------
-🔴 Repack Toolkit UI Redesigning Process 98% Done!
+🔴 Repack Toolkit v3.0.0.0 Stable Development Process All Done!
 
-🔴 AOW UI System Update Patch Files Building Process 95% Done!
-
-🔴 Repack Toolkit Main Script Files Redesigning Process 98% Done!
-
-🔴 Compressor Main Script Files Redesigning Process 94% Done!
-
+🔴 Repack Toolkit v3.0.0.0 Stable (Setup Installer) Development Process Started.
 
 📝 Important Notes
 ------------------
-🔴 Many Tester Facing Bugs For New Repack Toolkit UI System And System Performance Stability.
-
-🔴 Dear Tester Check Your Repack Toolkit v3.0.0.T (Tester Version) Updater.
-
-🔴 Repack Toolkit v3.0.0.0 Stable Development Process Started.
 
 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
