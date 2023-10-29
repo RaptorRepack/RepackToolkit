@@ -12,9 +12,9 @@
 -----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
-- Product Version: No Confirmation
-- Product Build Stage: No Confirmation
-- Product Changelog: No Confirmation
+- Product Version: Not Available 
+- Product Build Stage: Not Available 
+- Product Changelog: Not Available 
 - Product OS Support: Windows 11
 - Product OS Build Version: 22H2 or Higher
 - Product OS Edition: Pro Edition
@@ -48,7 +48,7 @@
 
 📢 Upcoming Updates 
 -------------------
-⏳ No Official Confirmation.
+⏳ No Official Informations.
 
 
 📝 Important Notes
