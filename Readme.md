@@ -14,7 +14,7 @@
 - Product Language: English-Us
 - Product Version: v3.0.0.0 
 - Product Build Stage: Stable 
-- Product Changelog: [What's New](https://github.com/raptorrepack/repacktoolkit)
+- Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v3.0.0)
 - Product OS Support: Windows 11
 - Product OS Build Version: 22H2 or Higher
 - Product OS Edition: Pro Edition
@@ -26,7 +26,7 @@
 
 ⬇️ Download Now 
 ---------------
-👉 Direct Download Link Soon.
+👉 [Repack Toolkit v3.0.0.0 Stable Direct Download Now](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit64bit_v3.0.0.0.exe)
 
 📥 Older Versions
 -----------------
@@ -53,6 +53,7 @@
 
 📝 Important Notes
 ------------------
+🔴 Repack Toolkit v3.0.0.0 Stable Setup Installer And Repack Toolkit v3.0.0.0 Source Code Released.
 
 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
