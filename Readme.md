@@ -24,9 +24,9 @@
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023 Co.Inc
 
-⬇️ Download Now 
----------------
-👉 [Repack Toolkit v3.0.0.0 Stable Direct Download Now](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit64bit_v3.0.0.0.exe)
+⬇️ Direct Download Now 
+-----------------------
+👉 [Repack Toolkit v3.0.0.0 Stable](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit64bit_v3.0.0.0.exe)
 
 📥 Older Versions
 -----------------
