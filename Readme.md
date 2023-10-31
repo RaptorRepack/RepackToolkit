@@ -14,7 +14,7 @@
 - Product Language: English-Us
 - Product Version: v3.0.0.0 
 - Product Build Stage: Stable 
-- Product Changelog: [What's New](url)
+- Product Changelog: [What's New](https://github.com/raptorrepack/repacktoolkit)
 - Product OS Support: Windows 11
 - Product OS Build Version: 22H2 or Higher
 - Product OS Edition: Pro Edition
