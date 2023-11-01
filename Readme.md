@@ -57,7 +57,7 @@
 
 🔴 Permanently Removed In (Nvidia Physx or .NET Framework) Repack Toolkit Script Lines.
 
-🔴 Highly recommended for Windows 11 22H2 Pro Edition to use this Repack Toolkit.
+🔴 Highly recommended For Windows 11 22H2 Pro Edition To Use This Repack Toolkit.
 
 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
