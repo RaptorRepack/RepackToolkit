@@ -28,7 +28,7 @@
 -------------------
 👉 [Repack Toolkit v3.0.0.0 Stable](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit64bit_v3.0.0.0.exe)
 
-👉 [Repack Toolkit v3.0.0.0 Stable Windows 10 Mode](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit_Win10_v3.0.0.0_Mode_64bit.exe)
+👉 [Repack Toolkit v3.0.0.0 Stable Windows 10 Mode Patch](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit_Win10_v3.0.0.0_Mode_64bit.exe)
 
 📥 Older Versions
 -----------------
