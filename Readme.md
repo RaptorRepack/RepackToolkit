@@ -59,6 +59,8 @@
 
 🔴 Now Available On Repack Toolkit By Windows 10 Mode.
 
+🔴 Mode Install To Select To (D:/) Disk.
+
 🔴 Not Available In Repack Toolkit Any Source Code And Only Available Repack Toolkit Setup Installer Files.
 
 🔴 Permanently Removed In (Nvidia Physx or .NET Framework) Repack Toolkit Script Lines.
