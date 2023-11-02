@@ -15,7 +15,7 @@
 - Product Version: v3.0.0.0 
 - Product Build Stage: Stable 
 - Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v3.0.0.0)
-- Product OS Support: Windows 11
+- Product OS Support: Windows 11 or Windows 10
 - Product OS Build Version: 22H2 or Higher
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
@@ -27,6 +27,8 @@
 ⬇️ Direct Download 
 -------------------
 👉 [Repack Toolkit v3.0.0.0 Stable](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit64bit_v3.0.0.0.exe)
+
+👉 [Repack Toolkit v3.0.0.0 Stable Windows 10 Mode](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit_Win10_v3.0.0.0_Mode_64bit.exe)
 
 📥 Older Versions
 -----------------
@@ -54,6 +56,8 @@
 📝 Important Notes
 -------------------
 🔴 Repack Toolkit v3.0.0.0 Stable Released.
+
+🔴 Now Available On Repack Toolkit By Windows 10 Mode.
 
 🔴 Not Available In Repack Toolkit Any Source Code And Only Available Repack Toolkit Setup Installer Files.
 
