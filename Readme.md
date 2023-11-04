@@ -15,7 +15,7 @@
 - Product Version: v3.0.0.0 
 - Product Build Stage: Stable 
 - Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v3.0.0.0)
-- Product OS Support: Windows 11 or Windows 10
+- Product OS Support: Win 11 or Win 10
 - Product OS Build Version: 22H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
@@ -65,7 +65,7 @@
 
 🔴 Permanently Removed In (Nvidia Physx or .NET Framework) Repack Toolkit Script Lines.
 
-🔴 Highly recommended For Windows 11 22H2 Pro Edition To Use This Repack Toolkit.
+🔴 Highly recommended For Windows 11/Windows 10 22H2 Pro Edition To Use This Repack Toolkit.
 
 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
