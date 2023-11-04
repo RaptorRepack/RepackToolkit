@@ -59,13 +59,13 @@
 
 🔴 Now Available On Repack Toolkit By Windows 10 Mode.
 
-🔴 Mode Install To Select To (D:/) Disk.
+🔴 Please Mode Install To Select Now (D:/) Disk.
 
 🔴 Not Available In Repack Toolkit Any Source Code And Only Available Repack Toolkit Setup Installer Files.
 
 🔴 Permanently Removed In (Nvidia Physx or .NET Framework) Repack Toolkit Script Lines.
 
-🔴 Highly recommended For Windows 11/Windows 10 22H2 Pro Edition To Use This Repack Toolkit.
+🔴 Highly recommended For Windows 11 Or Windows 10 22H2 Pro Edition To Use This Repack Toolkit.
 
 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
