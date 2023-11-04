@@ -59,7 +59,7 @@
 
 🔴 Now Available On Repack Toolkit By Windows 10 Mode.
 
-🔴 Please Mode Install To Select Now (D:/) Disk.
+🔴 Please Mode Install To Select Now D:\ Disk.
 
 🔴 Not Available In Repack Toolkit Any Source Code And Only Available Repack Toolkit Setup Installer Files.
 
