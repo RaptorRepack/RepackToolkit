@@ -16,7 +16,7 @@
 - Product Build Stage: Stable 
 - Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v3.0.0.0)
 - Product OS Support: Windows 11 or Windows 10
-- Product OS Build Version: 22H2 or Higher
+- Product OS Build Version: 22H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
 - Product Install Space Size: 75.88 MB
