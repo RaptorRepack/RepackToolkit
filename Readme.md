@@ -26,7 +26,7 @@
 
 ⬇️ Direct Download 
 -------------------
-👉 Repack Toolkit v4.0.0.0 Stable Donwload Link Soon.
+👉 Repack Toolkit v4.0.0.0 Stable Donwload Link Tomorrow.
 
 📥 Older Versions
 -----------------
@@ -55,9 +55,9 @@
 
 📝 Important Notes
 -------------------
-🔴 Repack Toolkit v4.0.0.0 Release Soon...
+🔴 Repack Toolkit v4.0.0.0 Release In Tomorrow.
 
-🔴 Repack Toolkit v4.0.0.0 Development Procces Started.
+🔴 Repack Toolkit v4.0.0.0 Development Procces All Most Done.
 
 🔴 Highly recommended For Windows 11 23H2 Pro Edition To Use This Repack Toolkit.
 
