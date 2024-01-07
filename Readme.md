@@ -19,14 +19,14 @@
 - Product OS Build Version: 23H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
-- Product Install Space Size: 1x.xx MB
+- Product Install Space Size: 44.05 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2024 Co.Inc
 
 ⬇️ Direct Download 
 -------------------
-👉 Repack Toolkit v4.0.0.0 Stable Donwload Link Tomorrow.
+👉 [Repack Toolkit v4.0.0.0 Stable](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit64bit_v4.0.0.0.exe)
 
 📥 Older Versions
 -----------------
