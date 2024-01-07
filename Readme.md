@@ -14,7 +14,7 @@
 - Product Language: English-Us
 - Product Version: v4.0.0.0 
 - Product Build Stage: Stable 
-- Product Changelog: [What's New]([https://github.com/RaptorRepack/RepackToolkit](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
+- Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
 - Product OS Support: Windows 11
 - Product OS Build Version: 23H2
 - Product OS Edition: Pro Edition
