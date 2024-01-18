@@ -15,8 +15,8 @@
 - Product Version: v4.0.0.0 
 - Product Build Stage: Stable 
 - Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
-- Product OS Support: Windows 11
-- Product OS Build Version: 23H2
+- Product OS Support: Windows 11 & Windows 10
+- Product OS Build Version: 23H2 & 22H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
 - Product Install Space Size: 44.05 MB
@@ -50,14 +50,24 @@
 
 📢 Upcoming Updates 
 --------------------
-⏳ Repack Toolkit v4.1.0.0 Stable Based On HyperEngine.
+⏳ Repack Toolkit v4.1.0.0 Stable.
 
 
 📝 Important Notes
 -------------------
+🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine.
+
+🔴 HyperEngine Totally Changed Repack Toolkit All Systems And Repack Data Compressor All Systems.
+
+🔴 Repack Toolkit Installations Time HyperEngine Automatically Detecting or Chacking Your Hardware Then Automatically Installing Repack Toolkit Setup Installer.
+
+🔴 HyperEngine Working In Low-End or Mid-End Hardware Only.
+
+🔴 HyperEngine High-End Hardware Patch Updates Available In Feature.
+
 🔴 Repack Toolkit v4.0.0.0 Released.
 
-🔴 Highly recommended For Windows 11 23H2 Pro Edition To Use This Repack Toolkit.
+🔴 Highly recommended For Windows 11 23H2 or Wnidows 10 22H2 Pro Edition To Use This Repack Toolkit.
 
 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
