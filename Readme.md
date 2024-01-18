@@ -50,7 +50,7 @@
 
 📢 Upcoming Updates 
 --------------------
-⏳ Repack Toolkit v4.1.0.0 Stable.
+⏳ Repack Toolkit v4.1.0.0
 
 
 📝 Important Notes
