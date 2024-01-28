@@ -1,7 +1,7 @@
 📝 Read The Notes
 -----------------
 
-- This Repack Toolkit Using Only For Offline Game Repacking or Installer Create Purpose.
+- This Repack Toolkit Using Only For Offline Game or Software Repacking Setup\Installer Create Purpose.
 
 - This Repack Toolkit Fully Open Source Software And This Repack Toolkit All Data Available For My GitHub Page Only.
 
