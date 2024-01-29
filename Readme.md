@@ -50,20 +50,12 @@
 
 📢 Upcoming Updates 
 --------------------
-⏳ Repack Toolkit v4.1.0.0 Based On HyperEngine
+⏳ Repack Toolkit v4.1.0.0
 
 
 📝 Important Notes
 -------------------
-🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine.
-
-🔴 HyperEngine Totally Changed Repack Toolkit All Systems And Repack Data Compressor All Systems.
-
-🔴 Repack Toolkit Installations Time HyperEngine Automatically Detecting or Chacking Your Hardware Then Automatically Installing Repack Toolkit Setup Installer.
-
-🔴 HyperEngine Working In Low-End or Mid-End Hardware Only.
-
-🔴 HyperEngine High-End Hardware Patch Updates Available In Feature.
+🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In Next Month.
 
 🔴 Repack Toolkit v4.0.0.0 Released.
 
