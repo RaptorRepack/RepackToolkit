@@ -12,24 +12,26 @@
 -----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
-- Product Version: v4.0.0.0 
+- Product Version: v4.1.0.0 
 - Product Build Stage: Stable 
-- Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
-- Product OS Support: Windows 11 & Windows 10
-- Product OS Build Version: 23H2 & 22H2
+- Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit)
+- Product OS Support: Windows 11 or Windows 10
+- Product OS Build Version: 23H2 or 22H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
-- Product Install Space Size: 44.05 MB
+- Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2024 Co.Inc
 
 ⬇️ Direct Download 
 -------------------
-👉 [Repack Toolkit v4.0.0.0 Stable](https://github.com/RaptorRepack/RaptorRepack/releases/download/Download/RepackToolkit64bit_v4.0.0.0.exe)
+👉 Direct Download Link Very Soon...
 
 📥 Older Versions
 -----------------
+👉 [Repack Toolkit v4.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
+
 👉 [Repack Toolkit v3.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v3.0.0.0)
 
 👉 [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9.0)
