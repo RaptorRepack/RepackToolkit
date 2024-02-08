@@ -12,9 +12,9 @@
 -----------------------
 - Product Name: Repack Toolkit
 - Product Language: English-Us
-- Product Version: v4.1.0.0 
+- Product Version: v4.1.0.0 Very Soon
 - Product Build Stage: Stable 
-- Product Changelog: [What's New](https://github.com/RaptorRepack/RepackToolkit)
+- Product Changelog: [Very Soon](https://github.com/RaptorRepack/RepackToolkit)
 - Product OS Support: Windows 11 or Windows 10
 - Product OS Build Version: 23H2 or 22H2
 - Product OS Edition: Pro Edition
@@ -57,7 +57,7 @@
 
 📝 Important Notes
 -------------------
-🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In Next Month.
+🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In 5th March 2024.
 
 🔴 Repack Toolkit v4.0.0.0 Released.
 
