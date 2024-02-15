@@ -67,4 +67,4 @@
 
 ## 🌐 Social Media
 
-#### [Twitter](https://twitter.com/raptorrepack) || [YouTube](https://youtube.com/@RaptorRepack)
+#### [Twitter Page](https://twitter.com/raptorrepack) || [YouTube Channel](https://youtube.com/@RaptorRepack)
