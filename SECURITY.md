@@ -1,6 +1,4 @@
-# Repack Toolkit Security
-
-# Security Policy
+# Repack Toolkit Security Policy
 
 ## Supported Versions
 
