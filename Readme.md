@@ -27,7 +27,7 @@
 
 ## ⚙️ Changelog
 
-#### ⚙️ [Very Soon](https://github.com/RaptorRepack/RepackToolkit)
+#### ⚙️ [Changelog Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
 
 ## 📥 Older Versions
 
