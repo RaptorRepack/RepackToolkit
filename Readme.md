@@ -52,17 +52,17 @@
 
 📢 Upcoming Updates 
 --------------------
-⏳ [Repack Toolkit v4.1.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit)
+⏳ Repack Toolkit v4.1.0.0 Stable
 
 📝 Important Notes
 -------------------
-🔴 [HyperEngine](https://github.com/RaptorRepack/RepackToolkit) Coming With Sefareded Repositories Page And [HyperEngine](https://github.com/RaptorRepack/RepackToolkit) Sefareded Repositories Page To Available In Direct Download Options.
+🔴 HyperEngine Coming With Sefareded Repositories Page And HyperEngine Sefareded Repositories Page To Available In Direct Download Options.
 
-🔴 [Repack Toolkit v4.1.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit) Based On [HyperEngine](https://github.com/RaptorRepack/RepackToolkit) Release In 5th March 2024.
+🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In 5th March 2024.
 
-🔴 Highly recommended For Windows 11 23H2 or Wnidows 10 22H2 Pro Edition To Use This [Repack Toolkit](https://github.com/RaptorRepack/RepackToolkit).
+🔴 Highly recommended For Windows 11 23H2 or Wnidows 10 22H2 Pro Edition To Use This Repack Toolkit.
 
-🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The [Repack Toolkit](https://github.com/RaptorRepack/RepackToolkit) Installation Setup File.
+🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
 🌐 Social Media
 ---------------
