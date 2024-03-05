@@ -12,8 +12,8 @@
 - Product Language: English-Us
 - Product Version: v4.1.0.0 Very Soon
 - Product Build Stage: Stable
-- Product OS Support: Windows 11 or Windows 10
-- Product OS Build Version: 23H2 or 22H2
+- Product OS Support: Windows 11
+- Product OS Build Version: 23H2
 - Product OS Edition: Pro Edition
 - Product OS Architecture: 64bit
 - Product Install Space Size: 1x.xx MB
@@ -61,7 +61,9 @@
 
 #### 🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In 10th March 2024.
 
-#### 🔴 Highly recommended For Windows 11 23H2 or Wnidows 10 22H2 Pro Edition To Use This Repack Toolkit.
+#### 🔴 Windows 10 End Of Service In Repack Toolkit Completely.
+
+#### 🔴 Highly recommended For Windows 11 23H2 Pro Edition To Use This Repack Toolkit.
 
 #### 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
