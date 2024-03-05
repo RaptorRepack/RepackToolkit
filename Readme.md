@@ -57,9 +57,9 @@
 
 ## 📝 Important Notes
 
-#### 🔴 HyperEngine Coming With Sefareded Repositories Page And HyperEngine Sefareded Repositories Page To Available In Direct Download Options.
+#### 🔴 Some Error or Bugs Facing In HyperEngine Internal Testers and Release Date Has Been Changed.
 
-#### 🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In 5th March 2024.
+#### 🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In 10th March 2024.
 
 #### 🔴 Highly recommended For Windows 11 23H2 or Wnidows 10 22H2 Pro Edition To Use This Repack Toolkit.
 
