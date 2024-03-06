@@ -61,7 +61,7 @@
 
 #### 🔴 Repack Toolkit v4.1.0.0 Stable Based On HyperEngine Release In 10th March 2024.
 
-#### 🔴 Windows 10 End Of Service In Repack Toolkit Completely.
+#### 🔴 Windows 10 End Of Service In Repack Toolkit.
 
 #### 🔴 Highly recommended For Windows 11 23H2 Pro Edition To Use This Repack Toolkit.
 
