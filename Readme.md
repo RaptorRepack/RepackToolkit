@@ -53,7 +53,7 @@
 
 ### 📢 Upcoming Updates
 
-##### ⏳ Repack Toolkit v5.0.0.0 Stable
+##### 🪧 Repack Toolkit v5.0.0.0 Stable
 
 ### 📝 Important Notes
 
