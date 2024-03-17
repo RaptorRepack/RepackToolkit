@@ -1,33 +1,33 @@
 ## 📝 Read The Notes
 
-##### • This Repack Toolkit Using Only For Offline Game or Software Repacking Setup\Installer File Create Purpose.
+#### • This Repack Toolkit Using Only For Offline Game or Software Repacking Setup\Installer File Create Purpose.
 
-##### • This Repack Toolkit Fully Open Source Software And This Repack Toolkit All Data Available For My GitHub Page Only.
+#### • This Repack Toolkit Fully Open Source Software And This Repack Toolkit All Data Available For My GitHub Page Only.
 
-##### • Repack Toolkit Related Kind Of All Informations Sharing With Twitter, Please Follow The Twitter Page.
+#### • Repack Toolkit Related Kind Of All Informations Sharing With Twitter, Please Follow The Twitter Page.
 
 ## 🧾 Product Informations
 
-#### • Product Name: Repack Toolkit
-#### • Product Language: English-Us
-#### • Product Version: v5.0.0.0 Very Soon
-#### • Product Build Stage: Stable
-#### • Product OS Support: Windows 11
-#### • Product OS Build Version: 23H2
-#### • Product OS Edition: Pro Edition
-#### • Product OS Architecture: 64bit
-#### • Product Install Space Size: 1x.xx MB
-#### • Product Designer: Raptor Repack
-#### • Product Developer: Raptor Repack
-#### • Product Copyright: © Raptor Repack 2024 Co.Inc
+##### • Product Name: Repack Toolkit
+##### • Product Language: English-Us
+##### • Product Version: v5.0.0.0 Very Soon
+##### • Product Build Stage: Stable
+##### • Product OS Support: Windows 11
+##### • Product OS Build Version: 23H2
+##### • Product OS Edition: Pro Edition
+##### • Product OS Architecture: 64bit
+##### • Product Install Space Size: 1x.xx MB
+##### • Product Designer: Raptor Repack
+##### • Product Developer: Raptor Repack
+##### • Product Copyright: © Raptor Repack 2024 Co.Inc
 
 ## ⬇️ Direct Download
 
-####     [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
+#### [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
 
 ## ⚙️ Changelog
 
-####    [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
+#### [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
 
 ## 📥 Older Versions
 
