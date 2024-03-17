@@ -23,13 +23,13 @@
 
 ### ⬇️ Direct Download Now ⬇️
 
-## [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
+## [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
 
 ### ⚙️ Changelog
 
-#### [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
+#### [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
 
-### 📤 Older Versions
+### 📦 Older Versions
 
 #### 📥 [Repack Toolkit v4.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
 
