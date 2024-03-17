@@ -57,15 +57,15 @@
 
 ## 📝 Important Notes
 
-##### • Repack Toolkit v5.0.0.0 Stable Based On HyperEngine Release In 25th March 2024.
+###### *• Repack Toolkit v5.0.0.0 Stable Based On HyperEngine Release In 25th March 2024.*
 
-##### • HyperEngine All Bugs or Reported Issues Fixed.
+###### *• HyperEngine All Bugs or Reported Issues Fixed.*
 
-##### • HyperEngine v1.0.1.24 Stable Setup Wizard and Hardware System Analysis Patch Development Process Started.
+###### *• HyperEngine v1.0.1.24 Stable Setup Wizard and Hardware System Analysis Patch Development Process Started.*
 
-##### • HyperEngine v1.0.1.24 Stable Release In Separately Repositories.
+###### *• HyperEngine v1.0.1.24 Stable Release In Separately Repositories.*
 
-##### • HyperEngine v1.0.1.24 Stable Release In 10th April 2024.
+###### *• HyperEngine v1.0.1.24 Stable Release In 10th April 2024.*
 
 ###### *• Windows 10 End Of Service In Repack Toolkit.*
 
