@@ -21,7 +21,7 @@
 ##### • Product Developer: Raptor Repack
 ##### • Product Copyright: © Raptor Repack 2024 Co.Inc
 
-## ⬇️ Direct Download
+## ⬇️ Direct Download Now
 
 #### [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
 
@@ -29,31 +29,31 @@
 
 #### [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
 
-## 📥 Older Versions
+## 📥) Older Versions
 
-#### 👉 [Repack Toolkit v4.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
+#### [Repack Toolkit v4.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
 
-#### 👉 [Repack Toolkit v3.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v3.0.0.0)
+#### [Repack Toolkit v3.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v3.0.0.0)
 
-#### 👉 [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9.0)
+#### [Repack Toolkit v2.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.9.0)
 
-#### 👉 [Repack Toolkit v2.2.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0.0)
+#### [Repack Toolkit v2.2.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.2.0.0)
 
-#### 👉 [Toolkit v2.1.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9.0)
+#### [Toolkit v2.1.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.1.9.0)
 
-#### 👉 [Toolkit v2.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.0.0.0)
+#### [Toolkit v2.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v2.0.0.0)
 
-#### 👉 [Toolkit v1.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.9.0)
+#### [Toolkit v1.2.9.0 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.9.0)
 
-#### 👉 [Toolkit v1.2.0.2023 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.0.0)
+#### [Toolkit v1.2.0.2023 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.2.0.0)
 
-#### 👉 [Toolkit v1.1.0.2022 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.1.0.0)
+#### [Toolkit v1.1.0.2022 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.1.0.0)
 
-#### 👉 [Toolkit v1.0.0.2022 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0.0)
+#### [Toolkit v1.0.0.2022 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0.0)
 
 ## 📢 Upcoming Updates
 
-#### ⏳ Repack Toolkit v5.0.0.0 Stable
+##### ⏳ Repack Toolkit v5.0.0.0 Stable
 
 ## 📝 Important Notes
 
