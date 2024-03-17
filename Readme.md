@@ -23,11 +23,11 @@
 
 ### ⬇️ Direct Download Now
 
-## [**Very Soon...**](https://github.com/RaptorRepack/RepackToolkit)
+## [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
 
 ### ⚙️ Changelog
 
-## [**Very Soon...**](https://github.com/RaptorRepack/RepackToolkit)
+## [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
 
 ### 📥 Older Versions
 
