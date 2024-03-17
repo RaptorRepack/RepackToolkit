@@ -1,12 +1,12 @@
-## 📝 Read The Notes
+# 📝 Read The Notes
 
-##### • This Repack Toolkit Using Only For Offline Game or Software Repacking Setup\Installer File Create Purpose.
+##### *• This Repack Toolkit Using Only For Offline Game or Software Repacking Setup\Installer File Create Purpose.*
 
-##### • This Repack Toolkit Fully Open Source Software And This Repack Toolkit All Data Available For My GitHub Page Only.
+##### *• This Repack Toolkit Fully Open Source Software And This Repack Toolkit All Data Available For My GitHub Page Only.*
 
-##### • Repack Toolkit Related Kind Of All Informations Sharing With Twitter, Please Follow The Twitter Page.
+##### *• Repack Toolkit Related Kind Of All Informations Sharing With Twitter, Please Follow The Twitter Page.*
 
-## 🧾 Product Informations
+### 🧾 Product Informations
 
 ##### • Product Name: Repack Toolkit
 ##### • Product Language: English-Us
@@ -21,15 +21,15 @@
 ##### • Product Developer: Raptor Repack
 ##### • Product Copyright: © Raptor Repack 2024 Co.Inc
 
-# ⬇️ Direct Download Now
+### ⬇️ Direct Download Now
 
 ## [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
 
-# ⚙️ Changelog
+### ⚙️ Changelog
 
-#### [Very Soon...](https://github.com/RaptorRepack/RepackToolkit)
+## [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
 
-## 📥 Older Versions
+### 📥 Older Versions
 
 #### [Repack Toolkit v4.0.0.0 Stable](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v4.0.0.0)
 
@@ -51,11 +51,11 @@
 
 #### [Toolkit v1.0.0.2022 Beta](https://github.com/RaptorRepack/RepackToolkit/releases/tag/v1.0.0.0)
 
-## 📢 Upcoming Updates
+### 📢 Upcoming Updates
 
 ##### ⏳ Repack Toolkit v5.0.0.0 Stable
 
-## 📝 Important Notes
+### 📝 Important Notes
 
 ##### 🔴 Repack Toolkit v5.0.0.0 Stable Based On HyperEngine Release In 25th March 2024.
 
