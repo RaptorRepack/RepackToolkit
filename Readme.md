@@ -1,4 +1,4 @@
-# 📝 Read The Notes
+### 📝 Read The Notes
 
 ##### • This Repack Toolkit Using Only For Offline Game or Software Repacking Setup\Installer File Create Purpose.
 
@@ -27,7 +27,7 @@
 
 ### ⚙️ Changelog
 
-## [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
+#### [*Very Soon...*](https://github.com/RaptorRepack/RepackToolkit)
 
 ### 📤 Older Versions
 
